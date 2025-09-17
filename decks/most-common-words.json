@@ -1,0 +1,702 @@
+[
+  {
+    "hu": "a",
+    "ipa": "[ˈɒ]",
+    "en": "the",
+    "hu_example": "Itt van a könyved.",
+    "en_example": "Here is your book."
+  },
+  {
+    "hu": "meg",
+    "ipa": "[ˈmɛɡ]",
+    "en": "and/plus",
+    "hu_example": "Egy meg egy egyenlő kettővel.",
+    "en_example": "One plus one equals two."
+  },
+  {
+    "hu": "vagy",
+    "ipa": "[ˈvɒɟ]",
+    "en": "or, either… or… / about (inform.)",
+    "hu_example": "Teát vagy kávét kérsz?",
+    "en_example": "Would you like to have some tea or coffee?"
+  },
+  {
+    "hu": "van",
+    "ipa": "[ˈvɒn]",
+    "en": "to be / to have / there is",
+    "hu_example": "Van egy kutyám és három macskám.",
+    "en_example": "I have a dog and three cats."
+  },
+  {
+    "hu": "már",
+    "ipa": "[ˈmaːr]",
+    "en": "already",
+    "hu_example": "Már itt van.",
+    "en_example": "He’s already here."
+  },
+  {
+    "hu": "kell",
+    "ipa": "[ˈkɛlː]",
+    "en": "must, need to, have to / to be needed",
+    "hu_example": "Ezt tudnod kell.",
+    "en_example": "You must know this."
+  },
+  {
+    "hu": "még",
+    "ipa": "[ˈmeːɡ]",
+    "en": "still / more / even",
+    "hu_example": "Még van egy kis időnk.",
+    "en_example": "We still have some time."
+  },
+  {
+    "hu": "és",
+    "ipa": "[ˈeːʃ]",
+    "en": "and",
+    "hu_example": "Egy ruhát és egy táskát vettem.",
+    "en_example": "I bought a dress and a bag."
+  },
+  {
+    "hu": "mint",
+    "ipa": "[ˈmint]",
+    "en": "than / as … as / as",
+    "hu_example": "Csilla magasabb, mint Linda.",
+    "en_example": "Csilla is taller than Linda."
+  },
+  {
+    "hu": "az",
+    "ipa": "[ˈɒz]",
+    "en": "the",
+    "hu_example": "Az unokáim várnak rám.",
+    "en_example": "My grandchildren are waiting for me."
+  },
+  {
+    "hu": "akkor",
+    "ipa": "[ˈɒkːor]",
+    "en": "then, at that time",
+    "hu_example": "Akkor megkérdezem őt.",
+    "en_example": "I’ll ask him then."
+  },
+  {
+    "hu": "sem",
+    "ipa": "[ˈʃɛm]",
+    "en": "neither, not either / not even",
+    "hu_example": "Rám sem nézett!",
+    "en_example": "He didn’t even look at me!"
+  },
+  {
+    "hu": "lehet",
+    "ipa": "[ˈlɛhɛt]",
+    "en": "may / might be",
+    "hu_example": "Igaza lehet.",
+    "en_example": "He might be right."
+  },
+  {
+    "hu": "mert",
+    "ipa": "[ˈmɛrt]",
+    "en": "because",
+    "hu_example": "Fáradt, mert egész nap dolgozott.",
+    "en_example": "She’s tired because she has worked all day."
+  },
+  {
+    "hu": "minden",
+    "ipa": "[ˈmindɛn]",
+    "en": "every",
+    "hu_example": "Minden rendben lesz.",
+    "en_example": "Everything’s going to be alright."
+  },
+  {
+    "hu": "olyan",
+    "ipa": "[ˈojɒn]",
+    "en": "such, as, such a/an …, that kind of, so",
+    "hu_example": "Olyan szép!",
+    "en_example": "She is so pretty!"
+  },
+  {
+    "hu": "szerint",
+    "ipa": "[ˈsɛrint]",
+    "en": "according to / by",
+    "hu_example": "A barátom szerint mindenkit ki fognak rúgni.",
+    "en_example": "According to my friend, everyone will be fired."
+  },
+  {
+    "hu": "pedig",
+    "ipa": "[ˈpɛdiɡ]",
+    "en": "and, while, whereas / although, even though",
+    "hu_example": "Megvette a jegyeket, pedig mondtam neki, hogy nem akarok menni.",
+    "en_example": "He bought the tickets, although I told him I didn’t want to go."
+  },
+  {
+    "hu": "ez",
+    "ipa": "[ˈɛz]",
+    "en": "this, it",
+    "hu_example": "Ez a kedvenc dalom!",
+    "en_example": "This is my favourite song!"
+  },
+  {
+    "hu": "így",
+    "ipa": "[ˈiːɟ]",
+    "en": "in this way, like this / thus, as a result, hence, therefore",
+    "hu_example": "Így jobb?",
+    "en_example": "Is it better like this?"
+  },
+  {
+    "hu": "után",
+    "ipa": "[ˈutaːn]",
+    "en": "after",
+    "hu_example": "Hat óra után otthon leszünk.",
+    "en_example": "We’ll be at home after six o’clock."
+  },
+  {
+    "hu": "úgy",
+    "ipa": "[ˈuːɟ]",
+    "en": "so (in that manner, in such a way)",
+    "hu_example": "Úgy legyen!",
+    "en_example": "So be it!"
+  },
+  {
+    "hu": "nagy",
+    "ipa": "[ˈnɒɟ]",
+    "en": "big, great",
+    "hu_example": "Van egy nagy problémám.",
+    "en_example": "I have a big problem!"
+  },
+  {
+    "hu": "fel",
+    "ipa": "[ˈfɛl]",
+    "en": "up, upward, upwards",
+    "hu_example": "Állj fel!",
+    "en_example": "Stand up!"
+  },
+  {
+    "hu": "majd",
+    "ipa": "[ˈmɒjd]",
+    "en": "sometime, later, someday",
+    "hu_example": "Majd meglátjuk!",
+    "en_example": "We’ll see!"
+  },
+  {
+    "hu": "két",
+    "ipa": "[ˈkeːt]",
+    "en": "two",
+    "hu_example": "Két házunk van.",
+    "en_example": "We have two houses."
+  },
+  {
+    "hu": "nem",
+    "ipa": "[ˈnɛm]",
+    "en": "no, not",
+    "hu_example": "Nem tudom.",
+    "en_example": "I don’t know."
+  },
+  {
+    "hu": "nagyon",
+    "ipa": "[ˈnɒɟon]",
+    "en": "very",
+    "hu_example": "Nagyon éhes vagyok!",
+    "en_example": "I am very hungry!"
+  },
+  {
+    "hu": "aki",
+    "ipa": "[ˈɒki]",
+    "en": "who",
+    "hu_example": "Aki mer, az nyer!",
+    "en_example": "Nothing ventured, nothing gained!"
+  },
+  {
+    "hu": "most",
+    "ipa": "[ˈmoʃt]",
+    "en": "now, at the moment",
+    "hu_example": "Most már jobban érzem magam.",
+    "en_example": "I’m feeling better now."
+  },
+  {
+    "hu": "több",
+    "ipa": "[ˈtøbː]",
+    "en": "more, several",
+    "hu_example": "Több időre van szükségem.",
+    "en_example": "I need more time."
+  },
+  {
+    "hu": "lenni",
+    "ipa": "[ˈlɛnːi]",
+    "en": "to be, to exist",
+    "hu_example": "Lenni, vagy nem lenni: az itt a kérdés.",
+    "en_example": "To be, or not to be, that is the question."
+  },
+  {
+    "hu": "itt",
+    "ipa": "[ˈitː]",
+    "en": "here",
+    "hu_example": "Itt vagy?",
+    "en_example": "Are you here?"
+  },
+  {
+    "hu": "magyar",
+    "ipa": "[ˈmɒɟɒr]",
+    "en": "Hungarian",
+    "hu_example": "Vannak magyar barátaid?",
+    "en_example": "Do you have Hungarian friends?"
+  },
+  {
+    "hu": "ami",
+    "ipa": "[ˈɒmi]",
+    "en": "which, that",
+    "hu_example": "Nem mind arany, ami fénylik.",
+    "en_example": "All that glitters is not gold."
+  },
+  {
+    "hu": "első",
+    "ipa": "[ˈɛlʃøː]",
+    "en": "first",
+    "hu_example": "Szerelem volt első látásra.",
+    "en_example": "It was love at first sight."
+  },
+  {
+    "hu": "között",
+    "ipa": "[ˈkøzøtː]",
+    "en": "between, among",
+    "hu_example": "Néha olvasnod kell a sorok között.",
+    "en_example": "Sometimes you have to read between the lines."
+  },
+  {
+    "hu": "amely",
+    "ipa": "[ˈɒmɛj]",
+    "en": "which, that",
+    "hu_example": "Az összetevő, amely minden ételt finomabbá tesz.",
+    "en_example": "The one ingredient that makes every dish more delicious."
+  },
+  {
+    "hu": "hanem",
+    "ipa": "[ˈhɒnɛm]",
+    "en": "but",
+    "hu_example": "Nem pék vagyok, hanem cukrász.",
+    "en_example": "I’m not a baker but a pastry-cook."
+  },
+  {
+    "hu": "nincs",
+    "ipa": "[ˈnint͡ʃ]",
+    "en": "there is no, there is not",
+    "hu_example": "Nincs pénzem.",
+    "en_example": "I have no money."
+  },
+  {
+    "hu": "más",
+    "ipa": "[ˈmaːʃ]",
+    "en": "other, different / someone else, something else",
+    "hu_example": "Játsszunk valami mást!",
+    "en_example": "Let’s play something else!"
+  },
+  {
+    "hu": "illetve",
+    "ipa": "[ˈilːɛtvɛ]",
+    "en": "or, or rather, respectively",
+    "hu_example": "Ma a kutyámról, illetve a háziállataimról fogok beszélni.",
+    "en_example": "Today, I’ll be talking about my dog, or rather my pets."
+  },
+  {
+    "hu": "alatt",
+    "ipa": "[ˈɒlɒtː]",
+    "en": "under, below, underneath / in, in / over the course of, during",
+    "hu_example": "Nincs semmi az ágy alatt.",
+    "en_example": "There is nothing underneath the bed."
+  },
+  {
+    "hu": "egyik",
+    "ipa": "[ˈɛɟːik]",
+    "en": "one, one of",
+    "hu_example": "Az egyik barátom katona.",
+    "en_example": "One of my friends is a soldier."
+  },
+  {
+    "hu": "volna",
+    "ipa": "[ˈvolnɒ]",
+    "en": "would (have), should (have)",
+    "hu_example": "Beszélnem kellett volna vele.",
+    "en_example": "I should have talked to him."
+  },
+  {
+    "hu": "arra",
+    "ipa": "[ˈɒrːɒ]",
+    "en": "that way, in that area, in that direction / on it",
+    "hu_example": "Nem akarok arra menni.",
+    "en_example": "I don’t want to go that way."
+  },
+  {
+    "hu": "ilyen",
+    "ipa": "[ˈijɛn]",
+    "en": "such a/an …, this kind of / something like this",
+    "hu_example": "Ilyen az élet!",
+    "en_example": "Such is life!"
+  },
+  {
+    "hu": "azonban",
+    "ipa": "[ˈɒzombɒn]",
+    "en": "but, however, nevertheless",
+    "hu_example": "Ez az állat kicsi és aranyos, azonban veszélyes is.",
+    "en_example": "This animal is small and cute, however it is dangerous as well."
+  },
+  {
+    "hu": "sok",
+    "ipa": "[ˈʃok]",
+    "en": "much, many, a lot of, lots of, plenty of",
+    "hu_example": "Sok könyvem van.",
+    "en_example": "I have a lot of books."
+  },
+  {
+    "hu": "való",
+    "ipa": "[ˈvɒloː]",
+    "en": "meant, supposed / fitting, suitable, appropriate / real, true",
+    "hu_example": "Ez nem neked való hely.",
+    "en_example": "This is no place for you."
+  },
+  {
+    "hu": "által",
+    "ipa": "[ˈaːltɒl]",
+    "en": "by, per, through, by means of",
+    "hu_example": "A kollégáim által javasolt új tervek jól hangzanak.",
+    "en_example": "The new plans proposed by my colleagues sound good."
+  },
+  {
+    "hu": "amikor",
+    "ipa": "[ˈɒmikor]",
+    "en": "when",
+    "hu_example": "Az édesanyám 30 éves volt, amikor megszülettem.",
+    "en_example": "My mother was 30 years old when I was born."
+  },
+  {
+    "hu": "számára",
+    "ipa": "[ˈsaːmaːrɒ]",
+    "en": "for, for / to him / her",
+    "hu_example": "Ezt a könyvet gyerekek számára írtam.",
+    "en_example": "I wrote this book for children."
+  },
+  {
+    "hu": "valamint",
+    "ipa": "[ˈvɒlɒmint]",
+    "en": "as well as, and",
+    "hu_example": "Láttam a munkatársaimat, a vezetőket, valamint az elnököt is.",
+    "en_example": "I’ve seen my co-workers, the managers and the president as well."
+  },
+  {
+    "hu": "azért",
+    "ipa": "[ˈɒzeːrt]",
+    "en": "because, for that reason, in order to…, therefore, so that…, the reason (for/why…) is…",
+    "hu_example": "Azért jött, mert meghívtam.",
+    "en_example": "He has come because I invited him."
+  },
+  {
+    "hu": "egy",
+    "ipa": "[ˈɛɟː]",
+    "en": "one / a, an",
+    "hu_example": "Egy pohár bort szeretnék.",
+    "en_example": "I’d like to have a glass of wine."
+  },
+  {
+    "hu": "saját",
+    "ipa": "[ˈʃɒjaːt]",
+    "en": "own",
+    "hu_example": "Újra a saját ágyában aludhat.",
+    "en_example": "She/he can sleep in her/his own bed again."
+  },
+  {
+    "hu": "jól",
+    "ipa": "[ˈjoːl]",
+    "en": "well, fine",
+    "hu_example": "Jól vagyok.",
+    "en_example": "I am fine."
+  },
+  {
+    "hu": "ember",
+    "ipa": "[ˈɛmbɛr]",
+    "en": "person, human, mankind, humanity, man",
+    "hu_example": "Száz embert hívtunk meg a bulinkra.",
+    "en_example": "We've invited 100 people to our party."
+  },
+  {
+    "hu": "ahol",
+    "ipa": "[ˈɒɦol]",
+    "en": "where",
+    "hu_example": "Ez az a hely, ahol először találkoztunk.",
+    "en_example": "This is the place where we met for the first time."
+  },
+  {
+    "hu": "ott",
+    "ipa": "[ˈotː]",
+    "en": "there, over there",
+    "hu_example": "Ott leszek.",
+    "en_example": "I’ll be there."
+  },
+  {
+    "hu": "annak",
+    "ipa": "[ˈɒnːɒk]",
+    "en": "that, of / for / to that, it",
+    "hu_example": "Annak a gyereknek adtál cukrot?",
+    "en_example": "Have you given candy to that child?"
+  },
+  {
+    "hu": "mindig",
+    "ipa": "[ˈmindiɡ]",
+    "en": "always",
+    "hu_example": "Mindig számíthatsz rám.",
+    "en_example": "You can always count on me."
+  },
+  {
+    "hu": "miatt",
+    "ipa": "[ˈmijɒtː]",
+    "en": "because of, owing to, for, for the sake of",
+    "hu_example": "A gyerekek miatt költöztek ide.",
+    "en_example": "They moved here because of the children."
+  },
+  {
+    "hu": "mellett",
+    "ipa": "[ˈmɛlːɛtː]",
+    "en": "by, beside",
+    "hu_example": "Van egy ház a folyó mellett.",
+    "en_example": "There is a house by the river."
+  },
+  {
+    "hu": "kis",
+    "ipa": "[ˈkiʃ]",
+    "en": "small, little",
+    "hu_example": "Egy kis faluban nőttem fel.",
+    "en_example": "I grew up in a small village."
+  },
+  {
+    "hu": "alapján",
+    "ipa": "[ˈɒlɒpjaːn]",
+    "en": "based on, by, on account of, because of, due to",
+    "hu_example": "Ne ítélj meg egy könyvet a borítója alapján!",
+    "en_example": "Don't judge a book by its cover!"
+  },
+  {
+    "hu": "előtt",
+    "ipa": "[ˈɛløːtː]",
+    "en": "in front of, ahead of, before, prior to",
+    "hu_example": "Van egy fa a házunk előtt.",
+    "en_example": "There is a tree in front of our house."
+  },
+  {
+    "hu": "egész",
+    "ipa": "[ˈɛɡeːs]",
+    "en": "whole, entire, complete, all",
+    "hu_example": "Egész nap takarítottam.",
+    "en_example": "I spent the whole day cleaning."
+  },
+  {
+    "hu": "nélkül",
+    "ipa": "[ˈneːlkyl]",
+    "en": "without",
+    "hu_example": "Smink nélkül fiatalabbnak néz ki.",
+    "en_example": "She looks younger without make-up."
+  },
+  {
+    "hu": "ezért",
+    "ipa": "[ˈɛzeːrt]",
+    "en": "because of this, for this reason, therefore, for this",
+    "hu_example": "Megsérült, ezért nem tudott dolgozni menni.",
+    "en_example": "He was injured and therefore unable to go to work."
+  },
+  {
+    "hu": "igen",
+    "ipa": "[ˈiɡɛn]",
+    "en": "yes, quite, very, rather, highly",
+    "hu_example": "Kérsz egy pohár vizet? Igen, köszönöm!",
+    "en_example": "Would you like a glass of water? Yes, thanks!"
+  },
+  {
+    "hu": "másik",
+    "ipa": "[ˈmaːʃik]",
+    "en": "another, the other, other one",
+    "hu_example": "A férfi az út másik oldalán várt rá.",
+    "en_example": "The man was waiting for her on the other side of the street."
+  },
+  {
+    "hu": "stb.",
+    "ipa": "[ˈʃɒtøbːi]",
+    "en": "etc.",
+    "hu_example": "A személyes adataidra van szükségem: kor, nem, nemzetiség stb.",
+    "en_example": "I need your personal details: age, sex, nationality, etc."
+  },
+  {
+    "hu": "teljes",
+    "ipa": "[ˈtɛjːɛʃ]",
+    "en": "entire, full, total, complete",
+    "hu_example": "Mi a teljes neved?",
+    "en_example": "What’s your full name?"
+  },
+  {
+    "hu": "néhány",
+    "ipa": "[ˈneːɦaːɲ]",
+    "en": "some, a few, several",
+    "hu_example": "Van néhány könyv a polcon.",
+    "en_example": "There are a few books on the shelf."
+  },
+  {
+    "hu": "során",
+    "ipa": "[ˈʃoraːn]",
+    "en": "during, in the course of, over",
+    "hu_example": "Sok emberrel találkozott hosszú élete során.",
+    "en_example": "He’s met many people in the course of his long life."
+  },
+  {
+    "hu": "ma",
+    "ipa": "[ˈmɒ]",
+    "en": "today",
+    "hu_example": "Hanyadika van ma?",
+    "en_example": "What's the date today?"
+  },
+  {
+    "hu": "hiszen",
+    "ipa": "[ˈhisɛn]",
+    "en": "as, because, but",
+    "hu_example": "Tudom, hiszen ott voltam.",
+    "en_example": "I know because I was there."
+  },
+  {
+    "hu": "milyen",
+    "ipa": "[ˈmijɛn]",
+    "en": "what?, what kind of?, what … like?, how?",
+    "hu_example": "Milyen napod volt?",
+    "en_example": "How was your day?"
+  },
+  {
+    "hu": "mind",
+    "ipa": "[ˈmind]",
+    "en": "all of it, all of them, each, everyone, all",
+    "hu_example": "Mind eljöttek.",
+    "en_example": "They all have come."
+  },
+  {
+    "hu": "valami",
+    "ipa": "[ˈvɒlɒmi]",
+    "en": "something",
+    "hu_example": "Szeretnék valamit mondani.",
+    "en_example": "I’d like to say something."
+  },
+  {
+    "hu": "viszont",
+    "ipa": "[ˈvisont]",
+    "en": "vice versa, then again, same to you",
+    "hu_example": "Viszont kívánom!",
+    "en_example": "Same to you!"
+  },
+  {
+    "hu": "állni",
+    "ipa": "[ˈaːlni]",
+    "en": "to stand, to suit, consist of",
+    "hu_example": "Állj fel!",
+    "en_example": "Stand up!"
+  },
+  {
+    "hu": "tehát",
+    "ipa": "[ˈtɛɦaːt]",
+    "en": "so, therefore, thus, ergo",
+    "hu_example": "Semmi rosszat nem tett, tehát nem ő a hibás.",
+    "en_example": "He hasn’t done anything wrong, so he is not at fault."
+  },
+  {
+    "hu": "inkább",
+    "ipa": "[ˈiŋkaːbː]",
+    "en": "rather, more",
+    "hu_example": "Inkább itthon maradnék.",
+    "en_example": "I’d rather stay at home."
+  },
+  {
+    "hu": "három",
+    "ipa": "[ˈhaːrom]",
+    "en": "three",
+    "hu_example": "Három nővérem van.",
+    "en_example": "I have got three elder sisters."
+  },
+  {
+    "hu": "tudni",
+    "ipa": "[ˈtudni]",
+    "en": "to know, can",
+    "hu_example": "Tudsz úszni?",
+    "en_example": "Do you know how to swim?"
+  },
+  {
+    "hu": "éves",
+    "ipa": "[ˈeːvɛʃ]",
+    "en": "year(s) old, annual, yearly",
+    "hu_example": "Hány éves vagy?",
+    "en_example": "How old are you?"
+  },
+  {
+    "hu": "adni",
+    "ipa": "[ˈɒdni]",
+    "en": "to give",
+    "hu_example": "Add ide azt a tányért!",
+    "en_example": "Give me that plate!"
+  },
+  {
+    "hu": "például",
+    "ipa": "[ˈpeːldaːul]",
+    "en": "for example, for instance",
+    "hu_example": "Szeretnék egy háziállatot. Például egy kutyát.",
+    "en_example": "I’d like to have a pet. For example a dog."
+  },
+  {
+    "hu": "szükséges",
+    "ipa": "[ˈsykʃeːɡɛʃ]",
+    "en": "necessary",
+    "hu_example": "Ha szükséges, akkor holnap is tudok jönni.",
+    "en_example": "If necessary, I can come tomorrow too."
+  },
+  {
+    "hu": "együtt",
+    "ipa": "[ˈɛɟːytː]",
+    "en": "together, with",
+    "hu_example": "Miért nem mentek együtt Párizsba?",
+    "en_example": "Why don’t you go together to Paris?"
+  },
+  {
+    "hu": "akár",
+    "ipa": "[ˈɒkaːr]",
+    "en": "might as well, even, just like",
+    "hu_example": "Akár maradhatunk is még egy kicsit.",
+    "en_example": "We might as well stay for a while."
+  },
+  {
+    "hu": "tovább",
+    "ipa": "[ˈtovaːbː]",
+    "en": "further, farther, onward, any longer",
+    "hu_example": "Nem bírom tovább!",
+    "en_example": "I can't bear it any longer."
+  },
+  {
+    "hu": "ennek",
+    "ipa": "[ˈɛnːɛk]",
+    "en": "for this, to this",
+    "hu_example": "Ennek semmi értelme.",
+    "en_example": "This doesn't make any sense."
+  },
+  {
+    "hu": "nekem",
+    "ipa": "[ˈnɛkɛm]",
+    "en": "to me, for me",
+    "hu_example": "Nekem nem adott semmit.",
+    "en_example": "He didn’t give me anything."
+  },
+  {
+    "hu": "megfelelő",
+    "ipa": "[ˈmɛkfɛlɛløː]",
+    "en": "appropriate, adequate, suitable, proper, correspondent",
+    "hu_example": "Ez nem a megfelelő pillanat.",
+    "en_example": "This is not the right moment."
+  },
+  {
+    "hu": "őket",
+    "ipa": "[ˈøːkɛt]",
+    "en": "them",
+    "hu_example": "Nem szeretem őket.",
+    "en_example": "I don’t like them."
+  },
+  {
+    "hu": "szó",
+    "ipa": "[ˈsoː]",
+    "en": "word, voice",
+    "hu_example": "Szó sem lehet róla!",
+    "en_example": "No way! / Not on your life!"
+  }
+]

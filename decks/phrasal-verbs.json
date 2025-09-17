@@ -1,0 +1,200 @@
+[
+  { "hu": "ad valakinek valamit", "en": "to give something to somebody" },
+  {
+    "hu": "aggódik valamiért/valakiért",
+    "en": "to worry about something/somebody"
+  },
+  {
+    "hu": "ajánl valakinek valamit",
+    "en": "to recommend something to somebody"
+  },
+  { "hu": "beleszeret valakibe", "en": "to fall in love with somebody" },
+  {
+    "hu": "bemutat valakinek valakit",
+    "en": "to introduce somebody to somebody"
+  },
+  {
+    "hu": "beszél valamiről/valakiről",
+    "en": "to talk about something/somebody"
+  },
+  {
+    "hu": "beszélget valakivel valamiről",
+    "en": "to chat with somebody about something"
+  },
+  { "hu": "bízik valamiben/valakiben", "en": "to trust something/somebody" },
+  { "hu": "bocsánatot kér valakitől", "en": "to apologise to somebody" },
+  {
+    "hu": "csalódik valamiben/valakiben",
+    "en": "to be disappointed with something/somebody"
+  },
+  {
+    "hu": "csodálkozik valamin/valakin",
+    "en": "to be astonished by something/somebody"
+  },
+  {
+    "hu": "egyetért valakivel valamiben",
+    "en": "to agree with somebody on something"
+  },
+  { "hu": "elbúcsúzik valakitől", "en": "to say goodbye to somebody" },
+  {
+    "hu": "elege van valamiből/valakiből",
+    "en": "to be fed up with something/somebody"
+  },
+  {
+    "hu": "elmagyaráz valakinek valamit",
+    "en": "to explain something to somebody"
+  },
+  { "hu": "elválik valakitől", "en": "to divorce somebody" },
+  {
+    "hu": "elvár valamit valakitől",
+    "en": "to expect something from somebody"
+  },
+  {
+    "hu": "emlékeztet valakit valamire",
+    "en": "to remind somebody of something"
+  },
+  { "hu": "emlékszik valamire", "en": "to remember something" },
+  {
+    "hu": "fél valamitől/valakitől",
+    "en": "to be afraid of something/somebody"
+  },
+  {
+    "hu": "férjhez megy valakihez",
+    "en": "to marry somebody (férj = husband)"
+  },
+  {
+    "hu": "figyel valamire/valakire",
+    "en": "to pay attention to something/somebody"
+  },
+  { "hu": "fizet valamiért", "en": "to pay for something" },
+  { "hu": "függ valamitől/valakitől", "en": "to depend on something/somebody" },
+  {
+    "hu": "gondol valamire/valakire",
+    "en": "to think about something/somebody"
+  },
+  {
+    "hu": "gratulál valakinek valamihez",
+    "en": "to congratulate somebody on something"
+  },
+  {
+    "hu": "hallgat valamire/valakire",
+    "en": "to listen to something/somebody"
+  },
+  { "hu": "haragszik valakire", "en": "to be angry with somebody" },
+  {
+    "hu": "harcol valamiért/valakiért",
+    "en": "to fight for something/somebody"
+  },
+  {
+    "hu": "hasonlít valamire/valakire",
+    "en": "to resemble something/somebody"
+  },
+  { "hu": "hazudik valakinek", "en": "to lie to somebody" },
+  { "hu": "hisz valakinek", "en": "to believe somebody" },
+  {
+    "hu": "hisz valamiben/valakiben",
+    "en": "to believe in something/somebody"
+  },
+  { "hu": "hozzászokik valamihez", "en": "to get used to something" },
+  { "hu": "ír valakinek valamiről", "en": "to write somebody about something" },
+  {
+    "hu": "javasol valakinek valamit",
+    "en": "to recommend something to somebody"
+  },
+  { "hu": "kap valakitől valamit", "en": "to receive something from somebody" },
+  { "hu": "kér valakitől valamit", "en": "to ask somebody for something" },
+  { "hu": "készül valamire", "en": "to prepare for something" },
+  { "hu": "kíván valakinek valamit", "en": "to wish somebody something" },
+  {
+    "hu": "kölcsönad valakinek valamit",
+    "en": "to lend something to somebody"
+  },
+  { "hu": "küld valakinek valamit", "en": "to send something to somebody" },
+  {
+    "hu": "különbözik valamitől/valakitől",
+    "en": "to differ from something/somebody"
+  },
+  { "hu": "valahol lakik", "en": "to live somewhere" },
+  { "hu": "valakinél lakik", "en": "to live with somebody" },
+  { "hu": "valamilyennek látszik", "en": "to seem to be" },
+  {
+    "hu": "lemond valamiről/valakiről",
+    "en": "to renounce something/somebody"
+  },
+  {
+    "hu": "megbocsát valakinek valamit",
+    "en": "to forgive somebody for something"
+  },
+  { "hu": "megbukik valamiből", "en": "to fail an exam" },
+  {
+    "hu": "meggyőz valakit valamiről",
+    "en": "to persuade somebody about something"
+  },
+  { "hu": "meghív valakit valamire", "en": "to invite somebody for something" },
+  {
+    "hu": "megígér valakinek valamit",
+    "en": "to promise something to somebody"
+  },
+  { "hu": "megismerkedik valakivel", "en": "to get to know somebody" },
+  { "hu": "meglepődik valamin", "en": "to be surprised at something" },
+  {
+    "hu": "megszabadul valamitől/valakitől",
+    "en": "to get rid of something/somebody"
+  },
+  {
+    "hu": "megtilt valakinek valamit",
+    "en": "to forbid something to somebody"
+  },
+  { "hu": "mesél valakinek valamit", "en": "to tell a story to somebody" },
+  {
+    "hu": "mesél valamiről/valakiről",
+    "en": "to tell about something/somebody"
+  },
+  { "hu": "mond valakinek valamit", "en": "to say something to somebody" },
+  { "hu": "mutat valakinek valamit", "en": "to show something to somebody" },
+  { "hu": "nevet valamin/valakin", "en": "to laugh at something/somebody" },
+  {
+    "hu": "örül valaminek/valakinek",
+    "en": "to be pleased with something/somebody"
+  },
+  {
+    "hu": "összehasonlít valamivel valamit/valakivel valakit",
+    "en": "to compare something/somebody to something/somebody"
+  },
+  { "hu": "összpontosít valamire", "en": "to concentrate on something" },
+  { "hu": "részt vesz valamin/valamiben", "en": "to participate in something" },
+  {
+    "hu": "segít valakinek valamiben",
+    "en": "to help somebody with something"
+  },
+  { "hu": "számít valamire/valakire", "en": "to count on something/somebody" },
+  { "hu": "valamiről/valakiről szól", "en": "to be about something/somebody" },
+  { "hu": "találkozik valakivel", "en": "to meet somebody" },
+  { "hu": "tanul valakitől valamit", "en": "to learn something from somebody" },
+  { "hu": "tanul valamiből", "en": "to learn from something" },
+  { "hu": "tartozik valakinek valamivel", "en": "to owe somebody something" },
+  {
+    "hu": "valamihez/valakihez tartozik",
+    "en": "to belong to something/somebody"
+  },
+  { "hu": "telefonál valakinek", "en": "to call somebody" },
+  { "hu": "vágyik valamire/valamire", "en": "to wish something/somebody" },
+  { "hu": "válaszol valakinek", "en": "to answer somebody" },
+  { "hu": "válaszol valamire", "en": "to answer something" },
+  { "hu": "valamivé válik", "en": "to become something" },
+  { "hu": "jóban van valakivel", "en": "to get along with somebody" },
+  { "hu": "kedve van valamihez", "en": "to feel like doing something" },
+  { "hu": "vár valamire/valakire", "en": "to wait for something/somebody" },
+  { "hu": "vesz valamiből", "en": "to take from something" },
+  { "hu": "vesz valamit valakitől", "en": "to buy something from somebody" },
+  { "hu": "veszekszik valakivel", "en": "to fight with somebody" },
+  {
+    "hu": "vigyáz valamire/valakire",
+    "en": "to take care of something/somebody"
+  },
+  { "hu": "visz valakinek valamit", "en": "to bring something for somebody" },
+  {
+    "hu": "vitatkozik valakivel valamiről",
+    "en": "to argue with somebody about something"
+  }
+]

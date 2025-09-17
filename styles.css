@@ -1,0 +1,130 @@
+:root {
+  --brand-green: #3b7a57;
+  --brand-accent: #f4d35e;
+}
+
+.navbar-brand span {
+  color: var(--brand-accent);
+}
+
+.form-select:focus,
+.form-control:focus {
+  border-color: var(--brand-green);
+  box-shadow: 0 0 0 0.25rem rgba(59, 122, 87, 0.25);
+  outline: none;
+}
+
+/* Flashcard container */
+.flashcard {
+  perspective: 1200px;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto 1rem;
+}
+
+/* Inner flipping element */
+.flashcard-inner {
+  position: relative;
+  width: 100%;
+  min-height: 300px;
+  transform-style: preserve-3d;
+  transition: transform 0.6s ease-in-out;
+}
+
+.flashcard.flipped .flashcard-inner {
+  transform: rotateY(180deg);
+}
+
+/* Front & back faces */
+.flashcard-front,
+.flashcard-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+
+  /* Center content both ways */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 1rem;
+
+  font-size: 1.8rem;
+}
+
+.flashcard-front {
+  color: #000;
+}
+
+.flashcard-back {
+  transform: rotateY(180deg);
+  color: var(--brand-green);
+}
+
+/* Child spacing */
+.flashcard-front > *,
+.flashcard-back > * {
+  margin: 0.2rem 0;
+}
+
+/* IPA size tweak */
+.flashcard-front .text-muted {
+  font-size: 1.1rem;
+}
+
+/* Bootstrap overrides for brand green */
+.text-success {
+  color: var(--brand-green) !important;
+}
+.bg-success {
+  background-color: var(--brand-green) !important;
+}
+.border-success {
+  border-color: var(--brand-green) !important;
+}
+
+.btn-success {
+  --bs-btn-color: #fff;
+  --bs-btn-bg: var(--brand-green);
+  --bs-btn-border-color: var(--brand-green);
+  --bs-btn-hover-bg: #2f6046;
+  --bs-btn-hover-border-color: #2f6046;
+  --bs-btn-active-bg: #2a4d3a;
+  --bs-btn-active-border-color: #2a4d3a;
+  --bs-btn-disabled-bg: var(--brand-green);
+  --bs-btn-disabled-border-color: var(--brand-green);
+}
+
+.btn-outline-success {
+  --bs-btn-color: var(--brand-green);
+  --bs-btn-border-color: var(--brand-green);
+  --bs-btn-hover-bg: var(--brand-green);
+  --bs-btn-hover-border-color: var(--brand-green);
+  --bs-btn-hover-color: #fff;
+}
+
+.navbar.bg-success,
+.bg-success.navbar {
+  background-color: var(--brand-green) !important;
+}
+
+kbd {
+  background-color: #e9ecef;
+  color: #000;
+  border-radius: 4px;
+  padding: 2px 6px;
+  font-size: 0.85em;
+  border: 1px solid #ccc;
+}
+
+@media (max-width: 252px) {
+  #nextCardBtn {
+    margin-top: 5px;
+  }
+}
