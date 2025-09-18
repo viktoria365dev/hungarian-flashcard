@@ -105,6 +105,18 @@
   }
 }
 
+@media (max-width: 768px) {
+  .app-title {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .app-title {
+    display: none;
+  }
+}
+
 /* Bootstrap overrides for brand green */
 .text-success {
   color: var(--brand-green) !important;
@@ -158,4 +170,15 @@ button:focus {
 button:focus-visible {
   outline: 2px solid var(--brand-green);
   outline-offset: 2px;
+}
+
+.ko-fi-widget {
+  margin-top: 1rem;
+  text-align: center;
+  font-family: inherit;
+}
+
+.ko-fi-widget iframe:hover {
+  filter: brightness(1.1) drop-shadow(0 0 4px var(--brand-accent));
+  transition: filter 0.2s ease-in-out;
 }

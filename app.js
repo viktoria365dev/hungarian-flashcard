@@ -22,7 +22,6 @@ function setDeckFromArray(arr) {
   originalDeck = [...arr];
 }
 
-// Initialise
 // Initialise with auto-load
 updateMyDeckOption();
 
@@ -143,11 +142,17 @@ showAnswerBtn.addEventListener("click", () => {
 nextCardBtn.addEventListener("click", nextCard);
 prevCardBtn.addEventListener("click", prevCard);
 
-flashcard.addEventListener("click", () => {
+function handleFlip(e) {
   if (deck.length > 0 && front.textContent.trim() !== "") {
     flipCard();
   }
-});
+}
+
+if ("ontouchstart" in window) {
+  flashcard.addEventListener("touchstart", handleFlip, { passive: false });
+} else {
+  flashcard.addEventListener("click", handleFlip);
+}
 
 shuffleToggle.addEventListener("change", () => {
   isShuffled = shuffleToggle.checked;
@@ -187,8 +192,8 @@ function showCard() {
   if (card.hu_example && card.en_example) {
     back.innerHTML = `
       <div class="fs-2 fw-bold d-block mb-2">${card.en}</div>
-      <div class="fs-4 fst-italic d-block">${card.hu_example}</div>
-      <div class="fs-4 text-muted d-block">${card.en_example}</div>
+      <div class="fs-4 fst-italic text-muted d-block">${card.hu_example}</div>
+      <div class="fs-4 fst-italic d-block">${card.en_example}</div>
     `;
   } else {
     back.textContent = card.en;
