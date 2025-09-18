@@ -23,10 +23,32 @@ function setDeckFromArray(arr) {
 }
 
 // Initialise
-showCard();
-addToMyDeckBtn.style.display = "none";
-removeFromMyDeckBtn.style.display = "none";
+// Initialise with auto-load
 updateMyDeckOption();
+
+(function autoLoadDeck() {
+  const myDeckData = JSON.parse(localStorage.getItem("myDeck")) || [];
+
+  if (myDeckData.length > 0) {
+    // My Deck exists → load it
+    deckSelect.value = "myDeck";
+    addToMyDeckBtn.style.display = "none";
+    removeFromMyDeckBtn.style.display = "inline-block";
+    setDeckFromArray(myDeckData);
+    currentIndex = 0;
+    flashcard.classList.remove("flipped");
+    showCard();
+  } else {
+    // No My Deck → load first available deck
+    const firstDeckOption = deckSelect.querySelector(
+      "option[value]:not([disabled])"
+    );
+    if (firstDeckOption) {
+      deckSelect.value = firstDeckOption.value;
+      loadDeck();
+    }
+  }
+})();
 
 // Load deck when selection changes
 deckSelect.addEventListener("change", loadDeck);
@@ -242,12 +264,6 @@ document.addEventListener("keydown", (e) => {
   } else if (e.code === "ArrowLeft") {
     prevCard();
   }
-});
-
-// Remove focus after click/tap for all buttons
-document.querySelectorAll("button").forEach((btn) => {
-  btn.addEventListener("mouseup", () => btn.blur());
-  btn.addEventListener("touchend", () => btn.blur());
 });
 
 function showToast(message, type = "success") {
