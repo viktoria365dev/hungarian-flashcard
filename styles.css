@@ -14,6 +14,14 @@
   outline: none;
 }
 
+.app-title {
+  color: var(--brand-green);
+  font-weight: 700;
+}
+.app-title span {
+  color: var(--brand-accent);
+}
+
 /* Flashcard container */
 .flashcard {
   perspective: 1200px;
@@ -47,14 +55,12 @@
   background: #fff;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 
-  /* Center content both ways */
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
   padding: 1rem;
-
   font-size: 1.8rem;
 }
 
@@ -76,6 +82,27 @@
 /* IPA size tweak */
 .flashcard-front .text-muted {
   font-size: 1.1rem;
+}
+
+/* Nav buttons container */
+#navButtons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+@media (max-width: 400px) {
+  #navButtons {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  #navButtons .btn {
+    width: 100%;
+    max-width: 250px;
+  }
 }
 
 /* Bootstrap overrides for brand green */
@@ -123,8 +150,12 @@ kbd {
   border: 1px solid #ccc;
 }
 
-@media (max-width: 252px) {
-  #nextCardBtn {
-    margin-top: 5px;
-  }
+/* Remove focus outline for mouse/touch, keep for keyboard */
+button:focus {
+  outline: none;
+}
+
+button:focus-visible {
+  outline: 2px solid var(--brand-green);
+  outline-offset: 2px;
 }

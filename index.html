@@ -50,7 +50,9 @@
     <!-- Main content -->
     <main class="flex-fill">
       <div class="container py-5">
-        <h1 class="text-center mb-4">Hungarian365 Flashcards</h1>
+        <h1 class="text-center mb-5 app-title">
+          Hungarian<span>365</span> Flashcards
+        </h1>
 
         <!-- Deck Selector -->
         <div class="mb-4 text-center">
@@ -59,7 +61,7 @@
             <option value="phrases.json">Common Phrases</option>
             <option value="phrasal-verbs.json">Phrasal Verbs</option>
             <option value="most-common-words.json">Most Common Words</option>
-            <!--   <option value="myDeck">My Deck</option> -->
+            <option value="myDeck">My Deck</option>
           </select>
         </div>
 
@@ -79,30 +81,29 @@
           </div>
         </div>
 
-        <!-- 
-        <div class="text-center mt-3">
-          <button id="addToMyDeckBtn" class="btn btn-warning me-2">
-            Add to My Deck
-          </button>
-          <button id="clearMyDeckBtn" class="btn btn-danger">
-            Clear My Deck
-          </button>
-        </div>
- -->
-
         <!-- Controls -->
-        <div class="text-center">
-          <button id="prevCardBtn" class="btn btn-outline-success me-2">
+        <div class="text-center" id="navButtons">
+          <button id="prevCardBtn" class="btn btn-outline-success">
             Previous Card
           </button>
-          <button id="showAnswerBtn" class="btn btn-success me-2">
+          <button id="showAnswerBtn" class="btn btn-success">
             Show Answer
           </button>
           <button id="nextCardBtn" class="btn btn-outline-success">
             Next Card
           </button>
         </div>
-        <div class="text-center mt-4 text-muted small">
+
+        <div class="text-center mt-3">
+          <button id="addToMyDeckBtn" class="btn btn-warning">
+            Add to My Deck
+          </button>
+          <button id="removeFromMyDeckBtn" class="btn btn-danger">
+            Remove from My Deck
+          </button>
+        </div>
+
+        <div class="text-center mt-4 text-muted small d-none d-md-block">
           Tip: Use <kbd>Space</kbd> to flip, <kbd>←</kbd> / <kbd>→</kbd> to
           navigate
         </div>
@@ -138,6 +139,28 @@
         </div>
       </div>
     </footer>
+
+    <div class="position-fixed bottom-0 end-0 p-3" style="z-index: 11">
+      <div
+        id="actionToast"
+        class="toast align-items-center text-bg-success border-0"
+        role="alert"
+        aria-live="assertive"
+        aria-atomic="true"
+      >
+        <div class="d-flex">
+          <div class="toast-body" id="toastMessage">
+            <!-- Message goes here -->
+          </div>
+          <button
+            type="button"
+            class="btn-close btn-close-white me-2 m-auto"
+            data-bs-dismiss="toast"
+            aria-label="Close"
+          ></button>
+        </div>
+      </div>
+    </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
     <script src="app.js"></script>
