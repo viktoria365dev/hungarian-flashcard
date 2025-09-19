@@ -55,18 +55,6 @@ if ("ontouchstart" in window) {
   flashcard.addEventListener("click", handleFlip);
 }
 
-// Keyboard shortcuts
-document.addEventListener("keydown", (e) => {
-  if (e.code === "Space") {
-    e.preventDefault();
-    flipCard();
-  } else if (e.code === "ArrowRight") {
-    nextCard();
-  } else if (e.code === "ArrowLeft") {
-    prevCard();
-  }
-});
-
 // =======================
 // FUNCTIONS
 // =======================
@@ -329,6 +317,7 @@ document.addEventListener(
         e.preventDefault();
         e.stopPropagation();
         flipCard();
+        document.querySelectorAll("button").forEach((button) => button.blur());
       }
       return;
     }
@@ -337,12 +326,14 @@ document.addEventListener(
     if (!isEditable && (e.key === "ArrowRight" || e.code === "ArrowRight")) {
       e.preventDefault();
       nextCard();
+      document.querySelectorAll("button").forEach((button) => button.blur());
     } else if (
       !isEditable &&
       (e.key === "ArrowLeft" || e.code === "ArrowLeft")
     ) {
       e.preventDefault();
       prevCard();
+      document.querySelectorAll("button").forEach((button) => button.blur());
     }
   },
   true
