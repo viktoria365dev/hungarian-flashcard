@@ -1,0 +1,889 @@
+[
+  {
+    "hu": "VAN",
+    "en": "to be",
+    "infinitive": "lenni",
+    "present_indefinite": [
+      "vagyok",
+      "vagy",
+      "van",
+      "vagyunk",
+      "vagytok",
+      "vannak"
+    ]
+  },
+  {
+    "hu": "CSINÁL",
+    "en": "to do",
+    "infinitive": "csinálni",
+    "present_indefinite": [
+      "csinálok",
+      "csinálsz",
+      "csinál",
+      "csinálunk",
+      "csináltok",
+      "csinálnak"
+    ]
+  },
+  {
+    "hu": "LESZ",
+    "en": "to become",
+    "infinitive": "lenni",
+    "present_indefinite": [
+      "leszek",
+      "leszel",
+      "lesz",
+      "leszünk",
+      "lesztek",
+      "lesznek"
+    ]
+  },
+  {
+    "hu": "MEGY",
+    "en": "to go",
+    "infinitive": "menni",
+    "present_indefinite": [
+      "megyek",
+      "mész",
+      "megy",
+      "megyünk",
+      "mentek",
+      "mennek"
+    ]
+  },
+  {
+    "hu": "MOND",
+    "en": "to say",
+    "infinitive": "mondani",
+    "present_indefinite": [
+      "mondok",
+      "mondasz",
+      "mond",
+      "mondunk",
+      "mondotok",
+      "mondanak"
+    ]
+  },
+  {
+    "hu": "KAP",
+    "en": "to get, to receive",
+    "infinitive": "kapni",
+    "present_indefinite": [
+      "kapok",
+      "kapsz",
+      "kap",
+      "kapunk",
+      "kaptok",
+      "kapnak"
+    ]
+  },
+  {
+    "hu": "TUD",
+    "en": "to know",
+    "infinitive": "tudni",
+    "present_indefinite": [
+      "tudok",
+      "tudsz",
+      "tud",
+      "tudunk",
+      "tudtok",
+      "tudnak"
+    ]
+  },
+  {
+    "hu": "AKAR",
+    "en": "to want",
+    "infinitive": "akarni",
+    "present_indefinite": [
+      "akarok",
+      "akarsz",
+      "akar",
+      "akarunk",
+      "akartok",
+      "akarnak"
+    ]
+  },
+  {
+    "hu": "LÁT",
+    "en": "to see",
+    "infinitive": "látni",
+    "present_indefinite": [
+      "látok",
+      "látsz",
+      "lát",
+      "látunk",
+      "láttok",
+      "látnak"
+    ]
+  },
+  {
+    "hu": "JÖN",
+    "en": "to come",
+    "infinitive": "jönni",
+    "present_indefinite": [
+      "jövök",
+      "jössz",
+      "jön",
+      "jövünk",
+      "jöttök",
+      "jönnek"
+    ]
+  },
+  {
+    "hu": "NÉZ",
+    "en": "to watch",
+    "infinitive": "nézni",
+    "present_indefinite": [
+      "nézek",
+      "nézel",
+      "néz",
+      "nézünk",
+      "néztek",
+      "néznek"
+    ]
+  },
+  {
+    "hu": "KÉRDEZ",
+    "en": "to ask",
+    "infinitive": "kérdezni",
+    "present_indefinite": [
+      "kérdezek",
+      "kérdezel",
+      "kérdez",
+      "kérdezünk",
+      "kérdeztek",
+      "kérdeznek"
+    ]
+  },
+  {
+    "hu": "ÉREZ",
+    "en": "to feel",
+    "infinitive": "érezni",
+    "present_indefinite": [
+      "érzek",
+      "érzel",
+      "érez",
+      "érzünk",
+      "éreztek",
+      "éreznek"
+    ]
+  },
+  {
+    "hu": "FORDUL",
+    "en": "to turn",
+    "infinitive": "fordulni",
+    "present_indefinite": [
+      "fordulok",
+      "fordulsz",
+      "fordul",
+      "fordulunk",
+      "fordultok",
+      "fordulnak"
+    ]
+  },
+  {
+    "hu": "ÜL",
+    "en": "to sit",
+    "infinitive": "ülni",
+    "present_indefinite": ["ülök", "ülsz", "ül", "ülünk", "ültök", "ülnek"]
+  },
+  {
+    "hu": "HAGY",
+    "en": "to let",
+    "infinitive": "hagyni",
+    "present_indefinite": [
+      "hagyok",
+      "hagysz",
+      "hagy",
+      "hagyunk",
+      "hagytok",
+      "hagynak"
+    ]
+  },
+  {
+    "hu": "AD",
+    "en": "to give",
+    "infinitive": "adni",
+    "present_indefinite": ["adok", "adsz", "ad", "adunk", "adtok", "adnak"]
+  },
+  {
+    "hu": "HÍV",
+    "en": "to call",
+    "infinitive": "hívni",
+    "present_indefinite": [
+      "hívok",
+      "hívsz",
+      "hív",
+      "hívunk",
+      "hívtok",
+      "hívnak"
+    ]
+  },
+  {
+    "hu": "TALÁL",
+    "en": "to find",
+    "infinitive": "találni",
+    "present_indefinite": [
+      "találok",
+      "találsz",
+      "talál",
+      "találunk",
+      "találtok",
+      "találnak"
+    ]
+  },
+  {
+    "hu": "PRÓBÁL",
+    "en": "to try",
+    "infinitive": "próbálni",
+    "present_indefinite": [
+      "próbálok",
+      "próbálsz",
+      "próbál",
+      "próbálunk",
+      "próbáltok",
+      "próbálnak"
+    ]
+  },
+  {
+    "hu": "ÁLL",
+    "en": "to stand",
+    "infinitive": "állni",
+    "present_indefinite": [
+      "állok",
+      "állsz",
+      "áll",
+      "állunk",
+      "álltok",
+      "állnak"
+    ]
+  },
+  {
+    "hu": "BESZÉL",
+    "en": "to speak",
+    "infinitive": "beszélni",
+    "present_indefinite": [
+      "beszélek",
+      "beszélsz",
+      "beszél",
+      "beszélünk",
+      "beszéltek",
+      "beszélnek"
+    ]
+  },
+  {
+    "hu": "HALL",
+    "en": "to hear",
+    "infinitive": "hallani",
+    "present_indefinite": [
+      "hallok",
+      "hallasz",
+      "hall",
+      "hallunk",
+      "hallotok",
+      "hallanak"
+    ]
+  },
+  {
+    "hu": "HÚZ",
+    "en": "to pull",
+    "infinitive": "húzni",
+    "present_indefinite": [
+      "húzok",
+      "húzol",
+      "húz",
+      "húzunk",
+      "húztok",
+      "húznak"
+    ]
+  },
+  {
+    "hu": "TART",
+    "en": "to hold",
+    "infinitive": "tartani",
+    "present_indefinite": [
+      "tartok",
+      "tartasz",
+      "tart",
+      "tartunk",
+      "tartotok",
+      "tartanak"
+    ]
+  },
+  {
+    "hu": "KEZD",
+    "en": "to start, to begin",
+    "infinitive": "kezdeni",
+    "present_indefinite": [
+      "kezdek",
+      "kezdesz",
+      "kezd",
+      "kezdünk",
+      "kezdetek",
+      "kezdenek"
+    ]
+  },
+  {
+    "hu": "DOLGOZIK",
+    "en": "to work",
+    "infinitive": "dolgozni",
+    "present_indefinite": [
+      "dolgozom",
+      "dolgozol",
+      "dolgozik",
+      "dolgozunk",
+      "dolgoztok",
+      "dolgoznak"
+    ]
+  },
+  {
+    "hu": "JELENT",
+    "en": "to mean",
+    "infinitive": "jelenteni",
+    "present_indefinite": [
+      "jelentek",
+      "jelentesz",
+      "jelent",
+      "jelentünk",
+      "jelentetek",
+      "jelentenek"
+    ]
+  },
+  {
+    "hu": "MOZOG",
+    "en": "to move",
+    "infinitive": "mozogni",
+    "present_indefinite": [
+      "mozgok",
+      "mozogsz",
+      "mozog",
+      "mozgunk",
+      "mozogtok",
+      "mozognak"
+    ]
+  },
+  {
+    "hu": "HASZNÁL",
+    "en": "to use",
+    "infinitive": "használni",
+    "present_indefinite": [
+      "használok",
+      "használsz",
+      "használ",
+      "használunk",
+      "használtok",
+      "használnak"
+    ]
+  },
+  {
+    "hu": "JÁR",
+    "en": "to go, to attend",
+    "infinitive": "járni",
+    "present_indefinite": [
+      "járok",
+      "jársz",
+      "jár",
+      "járunk",
+      "jártok",
+      "járnak"
+    ]
+  },
+  {
+    "hu": "ÉL",
+    "en": "to live",
+    "infinitive": "élni",
+    "present_indefinite": ["élek", "élsz", "él", "élünk", "éltek", "élnek"]
+  },
+  {
+    "hu": "VÁLIK",
+    "en": "to become",
+    "infinitive": "válni",
+    "present_indefinite": [
+      "válok",
+      "válsz",
+      "válik",
+      "válunk",
+      "váltok",
+      "válnak"
+    ]
+  },
+  {
+    "hu": "FUT",
+    "en": "to run",
+    "infinitive": "futni",
+    "present_indefinite": [
+      "futok",
+      "futsz",
+      "fut",
+      "futunk",
+      "futtok",
+      "futnak"
+    ]
+  },
+  {
+    "hu": "VÁR",
+    "en": "to wait",
+    "infinitive": "várni",
+    "present_indefinite": [
+      "várok",
+      "vársz",
+      "vár",
+      "várunk",
+      "vártok",
+      "várnak"
+    ]
+  },
+  {
+    "hu": "SZERET",
+    "en": "to like, to love",
+    "infinitive": "szeretni",
+    "present_indefinite": [
+      "szeretek",
+      "szeretsz",
+      "szeret",
+      "szeretünk",
+      "szerettek",
+      "szeretnek"
+    ]
+  },
+  {
+    "hu": "MOSOLYOG",
+    "en": "to smile",
+    "infinitive": "mosolyogni",
+    "present_indefinite": [
+      "mosolygok",
+      "mosolyogsz",
+      "mosolyog",
+      "mosolygunk",
+      "mosolyogtok",
+      "mosolyognak"
+    ]
+  },
+  {
+    "hu": "VÁG",
+    "en": "to cut",
+    "infinitive": "vágni",
+    "present_indefinite": [
+      "vágok",
+      "vágsz",
+      "vág",
+      "vágunk",
+      "vágtok",
+      "vágnak"
+    ]
+  },
+  {
+    "hu": "ÍR",
+    "en": "to write",
+    "infinitive": "írni",
+    "present_indefinite": ["írok", "írsz", "ír", "írunk", "írtok", "írnak"]
+  },
+  {
+    "hu": "MARAD",
+    "en": "to stay",
+    "infinitive": "maradni",
+    "present_indefinite": [
+      "maradok",
+      "maradsz",
+      "marad",
+      "maradunk",
+      "maradtok",
+      "maradnak"
+    ]
+  },
+  {
+    "hu": "HOZ",
+    "en": "to bring",
+    "infinitive": "hozni",
+    "present_indefinite": [
+      "hozok",
+      "hozol",
+      "hoz",
+      "hozunk",
+      "hoztok",
+      "hoznak"
+    ]
+  },
+  {
+    "hu": "ESIK",
+    "en": "to fall, to rain",
+    "infinitive": "esni",
+    "present_indefinite": ["esem", "esel", "esik", "esünk", "estek", "esnek"]
+  },
+  {
+    "hu": "VESZÍT",
+    "en": "to lose",
+    "infinitive": "veszíteni",
+    "present_indefinite": [
+      "veszítek",
+      "veszítesz",
+      "veszít",
+      "veszítünk",
+      "veszítetek",
+      "veszítenek"
+    ]
+  },
+  {
+    "hu": "MUTAT",
+    "en": "to show",
+    "infinitive": "mutatni",
+    "present_indefinite": [
+      "mutatok",
+      "mutatsz",
+      "mutat",
+      "mutatunk",
+      "mutattok",
+      "mutatnak"
+    ]
+  },
+  {
+    "hu": "JÁTSZIK",
+    "en": "to play",
+    "infinitive": "játszani",
+    "present_indefinite": [
+      "játszom",
+      "játszol",
+      "játszik",
+      "játszunk",
+      "játszotok",
+      "játszanak"
+    ]
+  },
+  {
+    "hu": "SEGÍT",
+    "en": "to help",
+    "infinitive": "segíteni",
+    "present_indefinite": [
+      "segítek",
+      "segítesz",
+      "segít",
+      "segítünk",
+      "segítetek",
+      "segítenek"
+    ]
+  },
+  {
+    "hu": "HISZ",
+    "en": "to believe",
+    "infinitive": "hinni",
+    "present_indefinite": [
+      "hiszek",
+      "hiszel",
+      "hisz",
+      "hiszünk",
+      "hisztek",
+      "hisznek"
+    ]
+  },
+  {
+    "hu": "VISEL",
+    "en": "to wear",
+    "infinitive": "viselni",
+    "present_indefinite": [
+      "viselek",
+      "viselsz",
+      "visel",
+      "viselünk",
+      "viseltek",
+      "viselnek"
+    ]
+  },
+  {
+    "hu": "HALLGAT",
+    "en": "to listen",
+    "infinitive": "hallgatni",
+    "present_indefinite": [
+      "hallgatok",
+      "hallgatsz",
+      "hallgat",
+      "hallgatunk",
+      "hallgattok",
+      "hallgatnak"
+    ]
+  },
+  {
+    "hu": "DÖNT",
+    "en": "to decide",
+    "infinitive": "dönteni",
+    "present_indefinite": [
+      "döntök",
+      "döntesz",
+      "dönt",
+      "döntünk",
+      "döntötök",
+      "döntenek"
+    ]
+  },
+  {
+    "hu": "NEVET",
+    "en": "to laugh",
+    "infinitive": "nevetni",
+    "present_indefinite": [
+      "nevetek",
+      "nevetsz",
+      "nevet",
+      "nevetünk",
+      "nevettek",
+      "nevetnek"
+    ]
+  },
+  {
+    "hu": "KÖVET",
+    "en": "to follow",
+    "infinitive": "követni",
+    "present_indefinite": [
+      "követek",
+      "követsz",
+      "követ",
+      "követünk",
+      "követtek",
+      "követnek"
+    ]
+  },
+  {
+    "hu": "VESZ",
+    "en": "to buy, to take",
+    "infinitive": "venni",
+    "present_indefinite": [
+      "veszek",
+      "veszel",
+      "vesz",
+      "veszünk",
+      "vesztek",
+      "vesznek"
+    ]
+  },
+  {
+    "hu": "HAZUDIK",
+    "en": "to lie",
+    "infinitive": "hazudni",
+    "present_indefinite": [
+      "hazudom",
+      "hazudsz",
+      "hazudik",
+      "hazudunk",
+      "hazudtok",
+      "hazudnak"
+    ]
+  },
+  {
+    "hu": "NŐ",
+    "en": "to grow",
+    "infinitive": "nőni",
+    "present_indefinite": ["növök", "nősz", "nő", "növünk", "nőtök", "nőnek"]
+  },
+  {
+    "hu": "OLVAS",
+    "en": "to read",
+    "infinitive": "olvasni",
+    "present_indefinite": [
+      "olvasok",
+      "olvasol",
+      "olvas",
+      "olvasunk",
+      "olvastok",
+      "olvasnak"
+    ]
+  },
+  {
+    "hu": "TALÁLKOZIK",
+    "en": "to meet",
+    "infinitive": "találkozni",
+    "present_indefinite": [
+      "találkozom",
+      "találkozol",
+      "találkozik",
+      "találkozunk",
+      "találkoztok",
+      "találkoznak"
+    ]
+  },
+  {
+    "hu": "SÍR",
+    "en": "to cry",
+    "infinitive": "sírni",
+    "present_indefinite": [
+      "sírok",
+      "sírsz",
+      "sír",
+      "sírunk",
+      "sírtok",
+      "sírnak"
+    ]
+  },
+  {
+    "hu": "TANUL",
+    "en": "to learn, to study",
+    "infinitive": "tanulni",
+    "present_indefinite": [
+      "tanulok",
+      "tanulsz",
+      "tanul",
+      "tanulunk",
+      "tanultok",
+      "tanulnak"
+    ]
+  },
+  {
+    "hu": "FIZET",
+    "en": "to pay",
+    "infinitive": "fizetni",
+    "present_indefinite": [
+      "fizetek",
+      "fizetsz",
+      "fizet",
+      "fizetünk",
+      "fizettek",
+      "fizetnek"
+    ]
+  },
+  {
+    "hu": "ESZIK",
+    "en": "to eat",
+    "infinitive": "enni",
+    "present_indefinite": [
+      "eszem",
+      "eszel",
+      "eszik",
+      "eszünk",
+      "esztek",
+      "esznek"
+    ]
+  },
+  {
+    "hu": "ISZIK",
+    "en": "to drink",
+    "infinitive": "inni",
+    "present_indefinite": [
+      "iszom",
+      "iszol",
+      "iszik",
+      "iszunk",
+      "isztok",
+      "isznak"
+    ]
+  },
+  {
+    "hu": "ÜT",
+    "en": "to hit",
+    "infinitive": "ütni",
+    "present_indefinite": ["ütök", "ütsz", "üt", "ütünk", "üttök", "ütnek"]
+  },
+  {
+    "hu": "VÁLASZOL",
+    "en": "to answer, to reply",
+    "infinitive": "válaszolni",
+    "present_indefinite": [
+      "válaszolok",
+      "válaszolsz",
+      "válaszol",
+      "válaszolunk",
+      "válaszoltok",
+      "válaszolnak"
+    ]
+  },
+  {
+    "hu": "GONDOL",
+    "en": "to think",
+    "infinitive": "gondolni",
+    "present_indefinite": [
+      "gondolok",
+      "gondolsz",
+      "gondol",
+      "gondolunk",
+      "gondoltok",
+      "gondolnak"
+    ]
+  },
+  {
+    "hu": "ÉRT",
+    "en": "to understand",
+    "infinitive": "érteni",
+    "present_indefinite": [
+      "értek",
+      "értesz",
+      "ért",
+      "értünk",
+      "értetek",
+      "értenek"
+    ]
+  },
+  {
+    "hu": "TESZ",
+    "en": "to put",
+    "infinitive": "tenni",
+    "present_indefinite": [
+      "teszek",
+      "teszel",
+      "tesz",
+      "teszünk",
+      "tesztek",
+      "tesznek"
+    ]
+  },
+  {
+    "hu": "FŐZ",
+    "en": "to cook",
+    "infinitive": "főzni",
+    "present_indefinite": [
+      "főzök",
+      "főzöl",
+      "főz",
+      "főzünk",
+      "főztök",
+      "főznek"
+    ]
+  },
+  {
+    "hu": "TANÍT",
+    "en": "to teach",
+    "infinitive": "tanítani",
+    "present_indefinite": [
+      "tanítok",
+      "tanítasz",
+      "tanít",
+      "tanítunk",
+      "tanítotok",
+      "tanítanak"
+    ]
+  },
+  {
+    "hu": "UTAZIK",
+    "en": "to travel",
+    "infinitive": "utazni",
+    "present_indefinite": [
+      "utazom",
+      "utazol",
+      "utazik",
+      "utazunk",
+      "utaztok",
+      "utaznak"
+    ]
+  },
+  {
+    "hu": "MOS",
+    "en": "to wash",
+    "infinitive": "mosni",
+    "present_indefinite": [
+      "mosok",
+      "mosol",
+      "mos",
+      "mosunk",
+      "mostok",
+      "mosnak"
+    ]
+  },
+  {
+    "hu": "KERES",
+    "en": "to search for, to look for",
+    "infinitive": "keresni",
+    "present_indefinite": [
+      "keresek",
+      "keresel",
+      "keres",
+      "keresünk",
+      "kerestek",
+      "keresnek"
+    ]
+  }
+]
