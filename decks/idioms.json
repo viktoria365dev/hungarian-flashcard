@@ -1,0 +1,1018 @@
+[
+  {
+    "hu": "a biztonság kedvéért",
+    "en": "just to be safe",
+    "literal": "for the sake of safety",
+    "hu_example": "Vittünk esernyőt is, a biztonság kedvéért.",
+    "en_example": "We took an umbrella too, just to be safe."
+  },
+  {
+    "hu": "a csapból is folyik",
+    "en": "it’s everywhere / you can’t escape it",
+    "literal": "it flows even from the tap",
+    "hu_example": "Ez a dal már a csapból is folyik.",
+    "en_example": "This song is everywhere these days."
+  },
+  {
+    "hu": "a jég hátán is megél",
+    "en": "can survive anywhere",
+    "literal": "he lives even on the back of ice",
+    "hu_example": "Ő tényleg a jég hátán is megél.",
+    "en_example": "He could survive even in the harshest conditions."
+  },
+  {
+    "hu": "a könyökén jön ki",
+    "en": "fed up with it",
+    "literal": "it comes out of his elbow",
+    "hu_example": "A vizsga már a könyökömön jön ki.",
+    "en_example": "I’m completely fed up with the exam."
+  },
+  {
+    "hu": "a pohár fenekére néz",
+    "en": "drinks a lot (alcohol)",
+    "literal": "looks at the bottom of the glass",
+    "hu_example": "Szeret a pohár fenekére nézni.",
+    "en_example": "He likes to drink a lot."
+  },
+  {
+    "hu": "a sarkára áll",
+    "en": "stands up for oneself",
+    "literal": "stands on his heel",
+    "hu_example": "Végre a sarkára állt, és nemet mondott.",
+    "en_example": "She finally stood up for herself and said no."
+  },
+  {
+    "hu": "a számból vetted ki a szót",
+    "en": "you took the words out of my mouth",
+    "literal": "you took the word out of my mouth",
+    "hu_example": "Pont ezt akartam mondani – a számból vetted ki a szót.",
+    "en_example": "That’s exactly what I wanted to say – you took the words out of my mouth."
+  },
+  {
+    "hu": "ahol a madár se jár",
+    "en": "in the middle of nowhere",
+    "literal": "where not even the bird goes",
+    "hu_example": "Egy faluban laknak, ahol a madár se jár.",
+    "en_example": "They live in a village in the middle of nowhere."
+  },
+  {
+    "hu": "alszik rá egyet",
+    "en": "sleeps on it (before deciding)",
+    "literal": "sleeps one on it",
+    "hu_example": "Nem tudom még, alszom rá egyet.",
+    "en_example": "I don’t know yet, I’ll sleep on it."
+  },
+  {
+    "hu": "alulról szagolja az ibolyát",
+    "en": "pushing up daisies (dead)",
+    "literal": "smells the violet from below",
+    "hu_example": "Már régóta alulról szagolja az ibolyát.",
+    "en_example": "He’s been pushing up daisies for a long time."
+  },
+  {
+    "hu": "amíg világ a világ",
+    "en": "as long as the world exists / forever",
+    "literal": "as long as the world is the world",
+    "hu_example": "Szeretni foglak, amíg világ a világ.",
+    "en_example": "I’ll love you as long as the world exists."
+  },
+  {
+    "hu": "anyai örömök elé néz",
+    "en": "expecting a baby",
+    "literal": "faces maternal joys",
+    "hu_example": "Anna anyai örömök elé néz.",
+    "en_example": "Anna is expecting a baby."
+  },
+  {
+    "hu": "az isten háta mögött",
+    "en": "in the back of beyond",
+    "literal": "behind God’s back",
+    "hu_example": "Az isten háta mögött van a nyaralójuk.",
+    "en_example": "Their holiday house is in the back of beyond."
+  },
+  {
+    "hu": "az őrületbe kerget",
+    "en": "drives someone crazy",
+    "literal": "chases into madness",
+    "hu_example": "Ez a zaj az őrületbe kerget.",
+    "en_example": "This noise is driving me crazy."
+  },
+  {
+    "hu": "ádámkosztüm",
+    "en": "birthday suit (naked)",
+    "literal": "Adam costume",
+    "hu_example": "Ádámkosztümben szaladt ki a fürdőből.",
+    "en_example": "He ran out of the bathroom in his birthday suit."
+  },
+  {
+    "hu": "álom jön a szemére",
+    "en": "falls asleep",
+    "literal": "a dream comes onto his eyes",
+    "hu_example": "Végre álom jött a szemére.",
+    "en_example": "He finally fell asleep."
+  },
+  {
+    "hu": "bakot lő",
+    "en": "to make a blunder",
+    "literal": "shoots a buck (but misses the target)",
+    "hu_example": "Megint bakot lőtt a számításával.",
+    "en_example": "He blundered again with his calculation."
+  },
+  {
+    "hu": "bal lábbal kel fel",
+    "en": "to get up on the wrong side of the bed",
+    "literal": "gets up with the left foot",
+    "hu_example": "Ma mindenkihez ingerülten szólt, biztos bal lábbal kelt fel.",
+    "en_example": "He snapped at everyone today, he must have gotten up on the wrong side of the bed."
+  },
+  {
+    "hu": "beadja a derekát",
+    "en": "to give in / to yield",
+    "literal": "gives in his waist",
+    "hu_example": "Sok könyörgés után beadta a derekát.",
+    "en_example": "After much pleading, he finally gave in."
+  },
+  {
+    "hu": "beadja a kulcsot",
+    "en": "to die / to kick the bucket",
+    "literal": "hands in the key",
+    "hu_example": "A régi autó végül beadta a kulcsot.",
+    "en_example": "The old car finally kicked the bucket."
+  },
+  {
+    "hu": "bedobja a törülközőt",
+    "en": "to throw in the towel",
+    "literal": "throws in the towel",
+    "hu_example": "Hosszú küzdelem után bedobta a törülközőt.",
+    "en_example": "After a long struggle, he threw in the towel."
+  },
+  {
+    "hu": "beletörik a bicskája",
+    "en": "to fail at something difficult",
+    "literal": "his pocketknife breaks in it",
+    "hu_example": "Sokan beletörték a bicskájukat ebbe a feladatba.",
+    "en_example": "Many people have failed at this task."
+  },
+  {
+    "hu": "beletörik a nyelve",
+    "en": "to find it hard to pronounce",
+    "literal": "his tongue breaks in it",
+    "hu_example": "A külföldieknek beletörik a nyelvük a magyar szavakba.",
+    "en_example": "Foreigners find Hungarian words hard to pronounce."
+  },
+  {
+    "hu": "borsot tör az orra alá",
+    "en": "to annoy someone",
+    "literal": "crushes pepper under his nose",
+    "hu_example": "Állandóan borsot tör a testvére orra alá.",
+    "en_example": "He’s always annoying his brother."
+  },
+  {
+    "hu": "bőrig ázik",
+    "en": "to get soaked to the skin",
+    "literal": "soaks to the skin",
+    "hu_example": "Esőkabát nélkül bőrig ázott.",
+    "en_example": "Without a raincoat, he got soaked to the skin."
+  },
+  {
+    "hu": "csepp a tengerben",
+    "en": "a drop in the ocean",
+    "literal": "a drop in the sea",
+    "hu_example": "Ez a segítség csak csepp a tengerben.",
+    "en_example": "This help is just a drop in the ocean."
+  },
+  {
+    "hu": "csont és bőr",
+    "en": "skin and bones",
+    "literal": "bone and skin",
+    "hu_example": "A betegség után csont és bőr maradt.",
+    "en_example": "After the illness, he was just skin and bones."
+  },
+  {
+    "hu": "csődöt mond",
+    "en": "to fail / to break down",
+    "literal": "declares bankruptcy",
+    "hu_example": "A terv teljesen csődöt mondott.",
+    "en_example": "The plan completely failed."
+  },
+  {
+    "hu": "csupa fül",
+    "en": "all ears",
+    "literal": "full of ears",
+    "hu_example": "Mesélj, csupa fül vagyok!",
+    "en_example": "Go on, I’m all ears!"
+  },
+  {
+    "hu": "csütörtököt mond",
+    "en": "to break down / to fail",
+    "literal": "says Thursday",
+    "hu_example": "A régi gép végül csütörtököt mondott.",
+    "en_example": "The old machine finally broke down."
+  },
+  {
+    "hu": "darázsfészekbe nyúl",
+    "en": "to stir up a hornet’s nest",
+    "literal": "reaches into a wasp’s nest",
+    "hu_example": "Ezzel a kijelentéssel darázsfészekbe nyúlt.",
+    "en_example": "With that statement, he stirred up a hornet’s nest."
+  },
+  {
+    "hu": "derült égből villámcsapás",
+    "en": "a bolt from the blue",
+    "literal": "lightning strike from a clear sky",
+    "hu_example": "A hír derült égből villámcsapásként érte.",
+    "en_example": "The news hit him like a bolt from the blue."
+  },
+  {
+    "hu": "délibábot kerget",
+    "en": "to chase illusions",
+    "literal": "chases a mirage",
+    "hu_example": "Ne délibábot kergess, inkább dolgozz a céljaidért.",
+    "en_example": "Don’t chase illusions, work toward your goals instead."
+  },
+  {
+    "hu": "eget-földet megmozgat",
+    "en": "to move heaven and earth",
+    "literal": "moves sky and earth",
+    "hu_example": "Eget-földet megmozgatott, hogy segítsen a barátjának.",
+    "en_example": "He moved heaven and earth to help his friend."
+  },
+  {
+    "hu": "egy csónakban evez",
+    "en": "to be in the same boat",
+    "literal": "rows in the same boat",
+    "hu_example": "Most már egy csónakban evezünk.",
+    "en_example": "We’re in the same boat now."
+  },
+  {
+    "hu": "egy kalap alá vesz",
+    "en": "to lump together",
+    "literal": "takes under one hat",
+    "hu_example": "Ne vegyél mindenkit egy kalap alá.",
+    "en_example": "Don’t lump everyone together."
+  },
+  {
+    "hu": "egy vagyonba kerül",
+    "en": "costs a fortune",
+    "literal": "costs one fortune",
+    "hu_example": "Ez az autó egy vagyonba kerül.",
+    "en_example": "This car costs a fortune."
+  },
+  {
+    "hu": "egyik kutya, másik eb",
+    "en": "six of one, half a dozen of the other",
+    "literal": "one is a dog, the other is a hound",
+    "hu_example": "Mindkettő ugyanolyan, egyik kutya, másik eb.",
+    "en_example": "They’re both the same, six of one, half a dozen of the other."
+  },
+  {
+    "hu": "egyik tizenkilenc, másik egy híján húsz",
+    "en": "almost the same / no real difference",
+    "literal": "one is nineteen, the other is one short of twenty",
+    "hu_example": "A két ajánlat között nincs különbség: egyik tizenkilenc, másik egy híján húsz.",
+    "en_example": "There’s no difference between the two offers: one’s nineteen, the other’s nearly twenty."
+  },
+  {
+    "hu": "emberére akad",
+    "en": "to meet one’s match",
+    "literal": "runs into his man",
+    "hu_example": "Végre emberére akadt a vitában.",
+    "en_example": "He finally met his match in the debate."
+  },
+  {
+    "hu": "ennek a fele sem tréfa",
+    "en": "this is no joke",
+    "literal": "half of this is not a joke",
+    "hu_example": "Ennek a fele sem tréfa, komolyan kell venni.",
+    "en_example": "This is no joke, it must be taken seriously."
+  },
+  {
+    "hu": "eső után köpönyeg",
+    "en": "too little, too late",
+    "literal": "cloak after rain",
+    "hu_example": "Most már eső után köpönyeg a bocsánatkérés.",
+    "en_example": "The apology is too little, too late."
+  },
+  {
+    "hu": "ez nekem kínai",
+    "en": "it’s all Greek to me",
+    "literal": "this is Chinese to me",
+    "hu_example": "Ez a szöveg nekem kínai.",
+    "en_example": "This text is all Greek to me."
+  },
+  {
+    "hu": "ég a keze alatt a munka",
+    "en": "works very quickly",
+    "literal": "the work burns under his hand",
+    "hu_example": "Nála mindig ég a keze alatt a munka.",
+    "en_example": "With him, the work always gets done quickly."
+  },
+  {
+    "hu": "ég és föld a különbség",
+    "en": "the difference is like night and day",
+    "literal": "the difference is sky and earth",
+    "hu_example": "A két film között ég és föld a különbség.",
+    "en_example": "The difference between the two films is like night and day."
+  },
+  {
+    "hu": "éjjeli bagoly",
+    "en": "night owl",
+    "literal": "nightly owl",
+    "hu_example": "Ő igazi éjjeli bagoly, mindig későn fekszik.",
+    "en_example": "She’s a real night owl, always going to bed late."
+  },
+  {
+    "hu": "falra hányt borsó",
+    "en": "like talking to a brick wall",
+    "literal": "peas thrown against the wall",
+    "hu_example": "Hiába magyarázod neki, olyan, mint a falra hányt borsó.",
+    "en_example": "Explaining it to him is like talking to a brick wall."
+  },
+  {
+    "hu": "farkaséhes",
+    "en": "hungry as a wolf / starving",
+    "literal": "wolf-hungry",
+    "hu_example": "Egész nap nem ettem, farkaséhes vagyok.",
+    "en_example": "I haven’t eaten all day, I’m starving."
+  },
+  {
+    "hu": "fából vaskarika",
+    "en": "contradiction in terms / nonsense",
+    "literal": "iron hoop made of wood",
+    "hu_example": "Ez az ötlet olyan, mint a fából vaskarika.",
+    "en_example": "That idea is a contradiction in terms."
+  },
+  {
+    "hu": "fejébe száll a dicsőség",
+    "en": "success goes to one’s head",
+    "literal": "the glory rises to his head",
+    "hu_example": "A győzelem után fejébe szállt a dicsőség.",
+    "en_example": "After the victory, success went to his head."
+  },
+  {
+    "hu": "feldobja a bakancsot",
+    "en": "to kick the bucket",
+    "literal": "throws up the boot",
+    "hu_example": "A nagypapa végül feldobta a bakancsot.",
+    "en_example": "Grandpa finally kicked the bucket."
+  },
+  {
+    "hu": "felmondja a szolgálatot",
+    "en": "to break down / stop working",
+    "literal": "resigns from service",
+    "hu_example": "A régi mosógép felmondta a szolgálatot.",
+    "en_example": "The old washing machine broke down."
+  },
+  {
+    "hu": "fülig ér a szája",
+    "en": "grinning from ear to ear",
+    "literal": "his mouth reaches to his ears",
+    "hu_example": "Fülig ért a szája az örömtől.",
+    "en_example": "He was grinning from ear to ear with joy."
+  },
+  {
+    "hu": "fülig szerelmes",
+    "en": "head over heels in love",
+    "literal": "in love up to the ears",
+    "hu_example": "Fülig szerelmes a kolléganőjébe.",
+    "en_example": "He’s head over heels in love with his colleague."
+  },
+  {
+    "hu": "füstbe megy",
+    "en": "to go up in smoke / to fail",
+    "literal": "goes into smoke",
+    "hu_example": "A terv végül füstbe ment.",
+    "en_example": "The plan eventually went up in smoke."
+  },
+  {
+    "hu": "gazdát cserél",
+    "en": "to change hands",
+    "literal": "changes owner",
+    "hu_example": "A ház hamarosan gazdát cserél.",
+    "en_example": "The house will soon change hands."
+  },
+  {
+    "hu": "gyerekcipőben jár",
+    "en": "in its infancy",
+    "literal": "walks in children’s shoes",
+    "hu_example": "Ez a technológia még gyerekcipőben jár.",
+    "en_example": "This technology is still in its infancy."
+  },
+  {
+    "hu": "gyerekjáték",
+    "en": "child’s play",
+    "literal": "child’s toy",
+    "hu_example": "Ez a feladat gyerekjáték volt számára.",
+    "en_example": "This task was child’s play for him."
+  },
+  {
+    "hu": "ha esik, ha fúj",
+    "en": "come rain or shine",
+    "literal": "whether it rains or blows",
+    "hu_example": "Minden nap fut, ha esik, ha fúj.",
+    "en_example": "He goes running every day, come rain or shine."
+  },
+  {
+    "hu": "hétalvó",
+    "en": "sleepyhead",
+    "literal": "seven-sleeper",
+    "hu_example": "Igazi hétalvó, mindig későn kel.",
+    "en_example": "He’s a real sleepyhead, always waking up late."
+  },
+  {
+    "hu": "hisz a fülének",
+    "en": "can believe one’s ears",
+    "literal": "believes his ear",
+    "hu_example": "Alig hittem a fülemnek, amikor meghallottam a hírt.",
+    "en_example": "I could hardly believe my ears when I heard the news."
+  },
+  {
+    "hu": "hisz a szemének",
+    "en": "can believe one’s eyes",
+    "literal": "believes his eye",
+    "hu_example": "Nem hittem a szememnek, amikor megláttam.",
+    "en_example": "I couldn’t believe my eyes when I saw it."
+  },
+  {
+    "hu": "holnapután kiskedden",
+    "en": "never / on doomsday",
+    "literal": "the little Tuesday after tomorrow",
+    "hu_example": "Majd holnapután kiskedden adom vissza.",
+    "en_example": "I’ll give it back on doomsday (i.e., never)."
+  },
+  {
+    "hu": "homokba dugja a fejét",
+    "en": "to bury one’s head in the sand",
+    "literal": "sticks his head into the sand",
+    "hu_example": "Ne dugd homokba a fejed, nézz szembe a problémával!",
+    "en_example": "Don’t bury your head in the sand, face the problem!"
+  },
+  {
+    "hu": "húzza az időt",
+    "en": "to stall / to waste time",
+    "literal": "pulls the time",
+    "hu_example": "Csak húzza az időt, hogy ne kelljen válaszolnia.",
+    "en_example": "He’s just stalling so he doesn’t have to answer."
+  },
+
+  {
+    "hu": "itatja az egereket",
+    "en": "to cry / to weep",
+    "literal": "gives drink to the mice",
+    "hu_example": "Ne sírj, ne itasd az egereket!",
+    "en_example": "Don’t cry, don’t weep!"
+  },
+  {
+    "hu": "ízlések és pofonok",
+    "en": "to each their own",
+    "literal": "tastes and slaps",
+    "hu_example": "Nekem nem tetszik, de ízlések és pofonok.",
+    "en_example": "I don’t like it, but to each their own."
+  },
+  {
+    "hu": "kapóra jön",
+    "en": "comes in handy",
+    "literal": "comes to the gate",
+    "hu_example": "Ez a pénz most nagyon kapóra jön.",
+    "en_example": "This money comes in very handy now."
+  },
+  {
+    "hu": "kemény dió",
+    "en": "a tough nut to crack",
+    "literal": "hard nut",
+    "hu_example": "Ez a feladat kemény dió.",
+    "en_example": "This task is a tough nut to crack."
+  },
+  {
+    "hu": "kerek perec",
+    "en": "plainly / bluntly",
+    "literal": "round pretzel",
+    "hu_example": "Kerek perec megmondta, hogy nem jön.",
+    "en_example": "He told me bluntly that he’s not coming."
+  },
+  {
+    "hu": "készpénznek vesz",
+    "en": "to take something at face value",
+    "literal": "takes it as cash",
+    "hu_example": "Ne vedd készpénznek, amit mond.",
+    "en_example": "Don’t take what he says at face value."
+  },
+  {
+    "hu": "kétballábas",
+    "en": "clumsy (at dancing/football)",
+    "literal": "two-left-footed",
+    "hu_example": "Nem tud táncolni, teljesen kétballábas.",
+    "en_example": "He can’t dance, he’s completely two-left-footed."
+  },
+  {
+    "hu": "kétbalkezes",
+    "en": "clumsy / all thumbs",
+    "literal": "two-left-handed",
+    "hu_example": "Ne bízd rá, kétbalkezes.",
+    "en_example": "Don’t trust him with it, he’s all thumbs."
+  },
+  {
+    "hu": "kiállja az idő próbáját",
+    "en": "to stand the test of time",
+    "literal": "stands the trial of time",
+    "hu_example": "Ez a könyv kiállta az idő próbáját.",
+    "en_example": "This book has stood the test of time."
+  },
+  {
+    "hu": "kimutatja a foga fehérjét",
+    "en": "to show one’s true colors",
+    "literal": "shows the whiteness of his teeth",
+    "hu_example": "Végül kimutatta a foga fehérjét.",
+    "en_example": "He finally showed his true colors."
+  },
+  {
+    "hu": "kockára tesz",
+    "en": "to risk / to gamble with",
+    "literal": "puts on the dice",
+    "hu_example": "Nem akarom kockára tenni a jövőmet.",
+    "en_example": "I don’t want to risk my future."
+  },
+  {
+    "hu": "köd előtte, köd utána",
+    "en": "disappears without a trace",
+    "literal": "fog before him, fog after him",
+    "hu_example": "Eltűnt, köd előtte, köd utána.",
+    "en_example": "He disappeared without a trace."
+  },
+  {
+    "hu": "kő kövön nem marad",
+    "en": "nothing will be left standing",
+    "literal": "no stone remains on stone",
+    "hu_example": "A vihar után kő kövön nem maradt.",
+    "en_example": "After the storm, nothing was left standing."
+  },
+  {
+    "hu": "kútba esik",
+    "en": "to fall through / to fail",
+    "literal": "falls into the well",
+    "hu_example": "A terv kútba esett.",
+    "en_example": "The plan fell through."
+  },
+  {
+    "hu": "látástól vakulásig",
+    "en": "from dawn till dusk / all day long",
+    "literal": "from seeing until blindness",
+    "hu_example": "Látástól vakulásig dolgozik.",
+    "en_example": "He works from dawn till dusk."
+  },
+  {
+    "hu": "leesik a tantusz",
+    "en": "the penny drops",
+    "literal": "the token falls down",
+    "hu_example": "Végre leesett neki a tantusz.",
+    "en_example": "He finally got it (the penny dropped)."
+  },
+  {
+    "hu": "leesik az álla",
+    "en": "jaw drops",
+    "literal": "his chin falls down",
+    "hu_example": "Leesett az álla a hírtől.",
+    "en_example": "His jaw dropped at the news."
+  },
+  {
+    "hu": "lóg az eső lába",
+    "en": "it looks like rain",
+    "literal": "the leg of the rain is hanging",
+    "hu_example": "Jobb, ha viszel esernyőt, lóg az eső lába.",
+    "en_example": "You’d better take an umbrella, it looks like rain."
+  },
+  {
+    "hu": "madarat lehetne fogatni",
+    "en": "to be over the moon",
+    "literal": "a bird could be made to catch with him",
+    "hu_example": "Olyan boldog volt, hogy madarat lehetett volna fogatni vele.",
+    "en_example": "He was so happy, he was over the moon."
+  },
+  {
+    "hu": "maga alatt vágja a fát",
+    "en": "to dig one’s own grave",
+    "literal": "cuts the tree under himself",
+    "hu_example": "Ha így folytatja, maga alatt vágja a fát.",
+    "en_example": "If he continues like this, he’s digging his own grave."
+  },
+  {
+    "hu": "makkegészséges",
+    "en": "fit as a fiddle",
+    "literal": "acorn-healthy",
+    "hu_example": "A nagymama makkegészséges.",
+    "en_example": "Grandma is fit as a fiddle."
+  },
+  {
+    "hu": "megállja a sarat",
+    "en": "to hold one’s ground",
+    "literal": "stands the mud",
+    "hu_example": "A csapat megállta a sarat a döntőben.",
+    "en_example": "The team held their ground in the final."
+  },
+  {
+    "hu": "megfogja az isten lábát",
+    "en": "to be extremely lucky",
+    "literal": "grabs God’s leg",
+    "hu_example": "Úgy érzi, megfogta az isten lábát az új állással.",
+    "en_example": "He feels extremely lucky with his new job."
+  },
+  {
+    "hu": "mese habbal",
+    "en": "a tall tale",
+    "literal": "story with foam",
+    "hu_example": "Ez csak mese habbal, ne higgy neki.",
+    "en_example": "That’s just a tall tale, don’t believe it."
+  },
+  {
+    "hu": "mérget vehet",
+    "en": "you can bet on it",
+    "literal": "can take poison",
+    "hu_example": "Arra mérget vehetsz, hogy elkésik.",
+    "en_example": "You can bet on it that he’ll be late."
+  },
+  {
+    "hu": "minden követ megmozgat",
+    "en": "to leave no stone unturned",
+    "literal": "moves every stone",
+    "hu_example": "Minden követ megmozgatott, hogy megtalálja a kutyáját.",
+    "en_example": "He left no stone unturned to find his dog."
+  },
+  {
+    "hu": "minden lében kanál",
+    "en": "a busybody / meddler",
+    "literal": "a spoon in every soup",
+    "hu_example": "Ő minden lében kanál, mindenbe beleszól.",
+    "en_example": "She’s a busybody, always interfering."
+  },
+  {
+    "hu": "nagyokat mond",
+    "en": "to boast / to exaggerate",
+    "literal": "says big things",
+    "hu_example": "Mindig nagyokat mond, de keveset tesz.",
+    "en_example": "He always boasts, but does little."
+  },
+  {
+    "hu": "nem fenékig tejfel",
+    "en": "not all sunshine and roses",
+    "literal": "not cream up to the bottom",
+    "hu_example": "Az élet nem fenékig tejfel.",
+    "en_example": "Life is not all sunshine and roses."
+  },
+  {
+    "hu": "nem látja a fától az erdőt",
+    "en": "can’t see the forest for the trees",
+    "literal": "doesn’t see the forest because of the tree",
+    "hu_example": "Annyira a részletekre figyel, hogy nem látja a fától az erdőt.",
+    "en_example": "He focuses so much on the details that he can’t see the forest for the trees."
+  },
+  {
+    "hu": "nem oszt, nem szoroz",
+    "en": "it makes no difference",
+    "literal": "doesn’t add, doesn’t subtract",
+    "hu_example": "Ez a kis hiba nem oszt, nem szoroz.",
+    "en_example": "This small mistake makes no difference."
+  },
+  {
+    "hu": "nincs kolbászból fonva a kerítés",
+    "en": "money doesn’t grow on trees",
+    "literal": "the fence isn’t woven from sausages",
+    "hu_example": "Dolgozni kell, nincs kolbászból fonva a kerítés.",
+    "en_example": "You have to work, money doesn’t grow on trees."
+  },
+  {
+    "hu": "nincs mese",
+    "en": "there’s no way around it",
+    "literal": "there’s no tale",
+    "hu_example": "Nincs mese, meg kell csinálni.",
+    "en_example": "There’s no way around it, it has to be done."
+  },
+  {
+    "hu": "olajat önt a tűzre",
+    "en": "to add fuel to the fire",
+    "literal": "pours oil on the fire",
+    "hu_example": "A megjegyzésével csak olajat öntött a tűzre.",
+    "en_example": "With his remark, he only added fuel to the fire."
+  },
+  {
+    "hu": "olvas a sorok között",
+    "en": "to read between the lines",
+    "literal": "reads between the lines",
+    "hu_example": "Ha a sorok között olvasol, megérted az üzenetet.",
+    "en_example": "If you read between the lines, you’ll understand the message."
+  },
+  {
+    "hu": "ördögi kör",
+    "en": "a vicious circle",
+    "literal": "devilish circle",
+    "hu_example": "Ez egy ördögi kör, amiből nehéz kitörni.",
+    "en_example": "It’s a vicious circle that’s hard to break out of."
+  },
+  {
+    "hu": "összeköti a kellemest a hasznossal",
+    "en": "to mix business with pleasure",
+    "literal": "ties the pleasant with the useful",
+    "hu_example": "Utazás közben összekötötte a kellemest a hasznossal.",
+    "en_example": "During the trip, he mixed business with pleasure."
+  },
+  {
+    "hu": "pénzzé tesz",
+    "en": "to turn into money / to cash in",
+    "literal": "makes into money",
+    "hu_example": "Pénzzé tette a régi gyűjteményét.",
+    "en_example": "He cashed in his old collection."
+  },
+  {
+    "hu": "piacra dob",
+    "en": "to launch on the market",
+    "literal": "throws onto the market",
+    "hu_example": "A cég új terméket dobott piacra.",
+    "en_example": "The company launched a new product on the market."
+  },
+  {
+    "hu": "pofonegyszerű",
+    "en": "easy as pie",
+    "literal": "slap-simple",
+    "hu_example": "Ez a feladat pofonegyszerű.",
+    "en_example": "This task is easy as pie."
+  },
+  {
+    "hu": "próba szerencse",
+    "en": "worth a try",
+    "literal": "trial is luck",
+    "hu_example": "Próbáld meg, próba szerencse.",
+    "en_example": "Give it a try, it’s worth a shot."
+  },
+  {
+    "hu": "rabul ejt",
+    "en": "to captivate / to enchant",
+    "literal": "takes captive",
+    "hu_example": "A mosolya mindenkit rabul ejtett.",
+    "en_example": "Her smile captivated everyone."
+  },
+  {
+    "hu": "rémeket lát",
+    "en": "to imagine the worst",
+    "literal": "sees phantoms",
+    "hu_example": "Ne láss rémeket, nem lesz semmi baj.",
+    "en_example": "Don’t imagine the worst, nothing will happen."
+  },
+  {
+    "hu": "rossz lóra tesz",
+    "en": "to bet on the wrong horse",
+    "literal": "bets on the wrong horse",
+    "hu_example": "Rossz lóra tett a választásával.",
+    "en_example": "He bet on the wrong horse with his choice."
+  },
+  {
+    "hu": "rossz szemmel néz",
+    "en": "to look unfavorably upon",
+    "literal": "looks with bad eye",
+    "hu_example": "Rossz szemmel nézik a kapcsolatukat.",
+    "en_example": "People look unfavorably upon their relationship."
+  },
+  {
+    "hu": "rosszban sántikál",
+    "en": "to be up to no good",
+    "literal": "limps in bad things",
+    "hu_example": "Biztos rosszban sántikál.",
+    "en_example": "He must be up to no good."
+  },
+  {
+    "hu": "rosszban töri a fejét",
+    "en": "to plot something bad",
+    "literal": "breaks his head in bad things",
+    "hu_example": "Valami rosszban töri a fejét.",
+    "en_example": "He’s plotting something bad."
+  },
+  {
+    "hu": "se füle, se farka",
+    "en": "makes no sense",
+    "literal": "neither ear nor tail",
+    "hu_example": "Ennek a történetnek se füle, se farka.",
+    "en_example": "This story makes no sense."
+  },
+  {
+    "hu": "se híre, se hamva",
+    "en": "no sign of it",
+    "literal": "neither news nor ashes",
+    "hu_example": "A csomagnak se híre, se hamva.",
+    "en_example": "There’s no sign of the package."
+  },
+  {
+    "hu": "se lát, se hall",
+    "en": "oblivious",
+    "literal": "neither sees nor hears",
+    "hu_example": "Annyira figyelt, hogy se látott, se hallott.",
+    "en_example": "He was so focused he was oblivious to everything."
+  },
+  {
+    "hu": "se nem oszt, se nem szoroz",
+    "en": "makes no difference",
+    "literal": "neither adds nor subtracts",
+    "hu_example": "Ez a kis változtatás se nem oszt, se nem szoroz.",
+    "en_example": "This small change makes no difference."
+  },
+  {
+    "hu": "semmibe vesz",
+    "en": "to disregard / to ignore",
+    "literal": "takes into nothing",
+    "hu_example": "Sehogy sem tisztel, teljesen semmibe vesz.",
+    "en_example": "He has no respect, he completely disregards me."
+  },
+  {
+    "hu": "sikerrel jár",
+    "en": "to succeed",
+    "literal": "goes with success",
+    "hu_example": "A terv végül sikerrel járt.",
+    "en_example": "The plan was ultimately successful."
+  },
+  {
+    "hu": "sok kicsi sokra megy",
+    "en": "many a little makes a mickle",
+    "literal": "many small adds up to much",
+    "hu_example": "Tegyél félre minden nap, sok kicsi sokra megy.",
+    "en_example": "Save a little every day, it all adds up."
+  },
+  {
+    "hu": "soron kívül",
+    "en": "out of turn / with priority",
+    "literal": "outside the line",
+    "hu_example": "Soron kívül intézték az ügyét.",
+    "en_example": "They handled his case with priority."
+  },
+  {
+    "hu": "süket fülekre talál",
+    "en": "to fall on deaf ears",
+    "literal": "finds deaf ears",
+    "hu_example": "A kérése süket fülekre talált.",
+    "en_example": "His request fell on deaf ears."
+  },
+  {
+    "hu": "száz szónak is egy a vége",
+    "en": "to cut a long story short",
+    "literal": "even a hundred words have the same end",
+    "hu_example": "Száz szónak is egy a vége: nem jövök.",
+    "en_example": "To cut a long story short: I’m not coming."
+  },
+  {
+    "hu": "szeme fénye",
+    "en": "apple of one’s eye",
+    "literal": "the light of his eye",
+    "hu_example": "A kislánya a szeme fénye.",
+    "en_example": "His little daughter is the apple of his eye."
+  },
+  {
+    "hu": "szemet huny",
+    "en": "to turn a blind eye",
+    "literal": "closes his eyes",
+    "hu_example": "A tanár szemet hunyt a késés felett.",
+    "en_example": "The teacher turned a blind eye to the lateness."
+  },
+  {
+    "hu": "szemmel tart",
+    "en": "to keep an eye on",
+    "literal": "keeps with eyes",
+    "hu_example": "Mindig szemmel tartja a gyerekeket.",
+    "en_example": "She always keeps an eye on the children."
+  },
+  {
+    "hu": "szemrehányást tesz",
+    "en": "to reproach / to blame",
+    "literal": "makes reproach",
+    "hu_example": "Szemrehányást tett neki a késés miatt.",
+    "en_example": "She reproached him for being late."
+  },
+  {
+    "hu": "szorít az idő",
+    "en": "time is pressing",
+    "literal": "time squeezes",
+    "hu_example": "Sietnünk kell, szorít az idő.",
+    "en_example": "We must hurry, time is pressing."
+  },
+  {
+    "hu": "tárt karokkal",
+    "en": "with open arms",
+    "literal": "with arms wide open",
+    "hu_example": "Tárt karokkal fogadták a vendégeket.",
+    "en_example": "They welcomed the guests with open arms."
+  },
+  {
+    "hu": "tele van a hócipője",
+    "en": "fed up with something",
+    "literal": "his snow boots are full",
+    "hu_example": "Tele van a hócipőm a panaszaiddal.",
+    "en_example": "I’m fed up with your complaints."
+  },
+  {
+    "hu": "tetőtől talpig",
+    "en": "from head to toe",
+    "literal": "from roof to heel",
+    "hu_example": "Tetőtől talpig feketébe öltözött.",
+    "en_example": "She was dressed in black from head to toe."
+  },
+  {
+    "hu": "tisztában van",
+    "en": "to be aware of",
+    "literal": "is in cleanliness",
+    "hu_example": "Tisztában van a következményekkel.",
+    "en_example": "He is aware of the consequences."
+  },
+  {
+    "hu": "torkig van",
+    "en": "to be sick and tired of",
+    "literal": "up to the throat",
+    "hu_example": "Torkig vagyok a hazugságaival.",
+    "en_example": "I’m sick and tired of his lies."
+  },
+  {
+    "hu": "töri a fejét",
+    "en": "to rack one’s brain",
+    "literal": "breaks his head",
+    "hu_example": "Töri a fejét a megoldáson.",
+    "en_example": "He’s racking his brain for a solution."
+  },
+  {
+    "hu": "tűkön ül",
+    "en": "to be on pins and needles",
+    "literal": "sits on needles",
+    "hu_example": "Tűkön ülve várta a hírt.",
+    "en_example": "She was on pins and needles waiting for the news."
+  },
+  {
+    "hu": "ujjat húz",
+    "en": "to cross swords / to quarrel",
+    "literal": "pulls a finger",
+    "hu_example": "Nem érdemes vele ujjat húzni.",
+    "en_example": "It’s not worth crossing swords with him."
+  },
+  {
+    "hu": "útban van",
+    "en": "to be in the way",
+    "literal": "is on the way",
+    "hu_example": "Ne állj ott, útban vagy.",
+    "en_example": "Don’t stand there, you’re in the way."
+  },
+  {
+    "hu": "ül a babérjain",
+    "en": "to rest on one’s laurels",
+    "literal": "sits on his laurels",
+    "hu_example": "A siker után csak ült a babérjain.",
+    "en_example": "After his success, he just rested on his laurels."
+  },
+  {
+    "hu": "vak vezet világtalant",
+    "en": "the blind leading the blind",
+    "literal": "a blind leads a sightless",
+    "hu_example": "Ez olyan, mint amikor vak vezet világtalant.",
+    "en_example": "It’s like the blind leading the blind."
+  },
+  {
+    "hu": "van benne valami",
+    "en": "there’s something to it",
+    "literal": "there is something in it",
+    "hu_example": "Amit mond, van benne valami.",
+    "en_example": "What he says, there’s something to it."
+  },
+  {
+    "hu": "vénasszonyok nyara",
+    "en": "Indian summer",
+    "literal": "old women’s summer",
+    "hu_example": "Szeptemberben gyakran van vénasszonyok nyara.",
+    "en_example": "In September, there is often an Indian summer."
+  },
+  {
+    "hu": "vérig sért",
+    "en": "to deeply offend",
+    "literal": "hurts to the blood",
+    "hu_example": "Vérig sértette a megjegyzésével.",
+    "en_example": "He deeply offended her with his remark."
+  },
+  {
+    "hu": "vérszemet kap",
+    "en": "to get greedy / to be emboldened",
+    "literal": "gets blood in his eye",
+    "hu_example": "A győzelem után vérszemet kapott.",
+    "en_example": "After the victory, he got greedy for more."
+  },
+  {
+    "hu": "világot lát",
+    "en": "to see the world",
+    "literal": "sees the world",
+    "hu_example": "Sokat utazik, világot lát.",
+    "en_example": "He travels a lot, he sees the world."
+  },
+  {
+    "hu": "zavarba hoz",
+    "en": "to embarrass",
+    "literal": "brings into confusion",
+    "hu_example": "A kérdés teljesen zavarba hozta.",
+    "en_example": "The question completely embarrassed him."
+  },
+  {
+    "hu": "zöldfülű",
+    "en": "greenhorn / rookie",
+    "literal": "green-eared",
+    "hu_example": "Még zöldfülű a szakmában.",
+    "en_example": "He’s still a rookie in the profession."
+  }
+]
