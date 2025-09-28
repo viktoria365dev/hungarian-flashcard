@@ -223,16 +223,27 @@ function showCard() {
 
   // --- Idiom cards ---
   if (card.literal) {
-    front.innerHTML = `
+    if (showEnglishFront) {
+      front.innerHTML = `
+      <div class="fs-2 fw-bold mb-2">${card.en}</div>
+    `;
+      back.innerHTML = `
+      <div class="fs-2 fw-bold mb-2">${card.hu}</div>
+      <div class="fs-5 fst-italic text-muted">${card.literal}</div>
+      <div class="fs-4 fst-italic text-muted">${card.hu_example || ""}</div>
+      <div class="fs-4 fst-italic">${card.en_example || ""}</div>
+    `;
+    } else {
+      front.innerHTML = `
       <div class="fs-2 fw-bold mb-2">${card.hu}</div>
       <div class="fs-5 fst-italic text-muted">${card.literal}</div>
     `;
-
-    back.innerHTML = `
+      back.innerHTML = `
       <div class="fs-2 fw-bold mb-2">${card.en}</div>
       <div class="fs-4 fst-italic text-muted">${card.hu_example || ""}</div>
       <div class="fs-4 fst-italic">${card.en_example || ""}</div>
     `;
+    }
     return;
   }
 
