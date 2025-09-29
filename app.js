@@ -221,6 +221,25 @@ function showCard() {
 
   const card = deck[currentIndex];
 
+  // --- Number cards ---
+  if (typeof card.num === "number" && card.hu && card.en) {
+    const formattedNum = card.num.toLocaleString("hu-HU");
+
+    const frontWord = showEnglishFront ? card.en : card.hu;
+    const backWord = showEnglishFront ? card.hu : card.en;
+
+    front.innerHTML = `
+    <div class="fs-3 fw-bold text-muted mb-3">${formattedNum}</div>
+    <div class="fs-2 fw-bold">${frontWord}</div>
+  `;
+
+    back.innerHTML = `
+    <div class="fs-3 fw-bold text-muted mb-3">${formattedNum}</div>
+    <div class="fs-2 fw-bold">${backWord}</div>
+  `;
+    return;
+  }
+
   // --- Idiom cards ---
   if (card.literal) {
     if (showEnglishFront) {
